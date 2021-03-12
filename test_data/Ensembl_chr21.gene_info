@@ -1,0 +1,695 @@
+ENSG00000141956	21	43218385	43299591	-1	protein_coding	PRDM15	PR_domain_containing_15_[Source:HGNC_Symbol;Acc:13999]
+ENSG00000141959	21	45719934	45747259	1	protein_coding	PFKL	phosphofructokinase,_liver_[Source:HGNC_Symbol;Acc:8876]
+ENSG00000142149	21	33245628	33416946	1	protein_coding	HUNK	hormonally_up-regulated_Neu-associated_kinase_[Source:HGNC_Symbol;Acc:13326]
+ENSG00000142156	21	47401651	47424964	1	protein_coding	COL6A1	collagen,_type_VI,_alpha_1_[Source:HGNC_Symbol;Acc:2211]
+ENSG00000142166	21	34696734	34732168	1	protein_coding	IFNAR1	interferon_(alpha,_beta_and_omega)_receptor_1_[Source:HGNC_Symbol;Acc:5432]
+ENSG00000142168	21	33031935	33041244	1	protein_coding	SOD1	superoxide_dismutase_1,_soluble_[Source:HGNC_Symbol;Acc:11179]
+ENSG00000142173	21	47518011	47552763	1	protein_coding	COL6A2	collagen,_type_VI,_alpha_2_[Source:HGNC_Symbol;Acc:2212]
+ENSG00000142178	21	44834395	44847008	-1	protein_coding	SIK1	salt-inducible_kinase_1_[Source:HGNC_Symbol;Acc:11142]
+ENSG00000142182	21	45666222	45682099	-1	protein_coding	DNMT3L	DNA_(cytosine-5-)-methyltransferase_3-like_[Source:HGNC_Symbol;Acc:2980]
+ENSG00000142185	21	45770046	45862964	1	protein_coding	TRPM2	transient_receptor_potential_cation_channel,_subfamily_M,_member_2_[Source:HGNC_Symbol;Acc:12339]
+ENSG00000142188	21	34804792	34853499	-1	protein_coding	TMEM50B	transmembrane_protein_50B_[Source:HGNC_Symbol;Acc:1280]
+ENSG00000142192	21	27252861	27543446	-1	protein_coding	APP	amyloid_beta_(A4)_precursor_protein_[Source:HGNC_Symbol;Acc:620]
+ENSG00000142197	21	37529080	37711195	1	protein_coding	DOPEY2	dopey_family_member_2_[Source:HGNC_Symbol;Acc:1291]
+ENSG00000142207	21	33683329	33765335	-1	protein_coding	URB1	URB1_ribosome_biogenesis_1_homolog_(S._cerevisiae)_[Source:HGNC_Symbol;Acc:17344]
+ENSG00000154639	21	18884700	18965897	1	protein_coding	CXADR	coxsackie_virus_and_adenovirus_receptor_[Source:HGNC_Symbol;Acc:2559]
+ENSG00000154640	21	18965971	18985265	-1	protein_coding	BTG3	BTG_family,_member_3_[Source:HGNC_Symbol;Acc:1132]
+ENSG00000154642	21	19161284	19191703	-1	protein_coding	C21orf91	chromosome_21_open_reading_frame_91_[Source:HGNC_Symbol;Acc:16459]
+ENSG00000154645	21	19165801	19639690	1	protein_coding	CHODL	chondrolectin_[Source:HGNC_Symbol;Acc:17807]
+ENSG00000154646	21	19641433	19858197	-1	protein_coding	TMPRSS15	transmembrane_protease,_serine_15_[Source:HGNC_Symbol;Acc:9490]
+ENSG00000154654	21	22370633	22915650	1	protein_coding	NCAM2	neural_cell_adhesion_molecule_2_[Source:HGNC_Symbol;Acc:7657]
+ENSG00000154719	21	26957968	26979829	-1	protein_coding	MRPL39	mitochondrial_ribosomal_protein_L39_[Source:HGNC_Symbol;Acc:14027]
+ENSG00000154721	21	27011584	27089874	1	protein_coding	JAM2	junctional_adhesion_molecule_2_[Source:HGNC_Symbol;Acc:14686]
+ENSG00000154723	21	27088815	27107984	-1	protein_coding	ATP5J	ATP_synthase,_H+_transporting,_mitochondrial_Fo_complex,_subunit_F6_[Source:HGNC_Symbol;Acc:847]
+ENSG00000154727	21	27106881	27144771	1	protein_coding	GABPA	GA_binding_protein_transcription_factor,_alpha_subunit_60kDa_[Source:HGNC_Symbol;Acc:4071]
+ENSG00000154734	21	28208606	28217728	-1	protein_coding	ADAMTS1	ADAM_metallopeptidase_with_thrombospondin_type_1_motif,_1_[Source:HGNC_Symbol;Acc:217]
+ENSG00000154736	21	28290231	28338832	-1	protein_coding	ADAMTS5	ADAM_metallopeptidase_with_thrombospondin_type_1_motif,_5_[Source:HGNC_Symbol;Acc:221]
+ENSG00000155304	21	15743436	15755805	-1	protein_coding	HSPA13	heat_shock_protein_70kDa_family,_member_13_[Source:HGNC_Symbol;Acc:11375]
+ENSG00000155307	21	15857549	15955723	-1	protein_coding	SAMSN1	SAM_domain,_SH3_domain_and_nuclear_localization_signals_1_[Source:HGNC_Symbol;Acc:10528]
+ENSG00000155313	21	17102344	17252377	1	protein_coding	USP25	ubiquitin_specific_peptidase_25_[Source:HGNC_Symbol;Acc:12624]
+ENSG00000156239	21	30244513	30257693	-1	protein_coding	N6AMT1	N-6_adenine-specific_DNA_methyltransferase_1_(putative)_[Source:HGNC_Symbol;Acc:16021]
+ENSG00000156253	21	30376705	30391699	-1	protein_coding	RWDD2B	RWD_domain_containing_2B_[Source:HGNC_Symbol;Acc:1302]
+ENSG00000156256	21	30396950	30426809	1	protein_coding	USP16	ubiquitin_specific_peptidase_16_[Source:HGNC_Symbol;Acc:12614]
+ENSG00000156261	21	30428126	30446118	-1	protein_coding	CCT8	chaperonin_containing_TCP1,_subunit_8_(theta)_[Source:HGNC_Symbol;Acc:1623]
+ENSG00000156265	21	30449792	30548210	1	protein_coding	C21orf7	chromosome_21_open_reading_frame_7_[Source:HGNC_Symbol;Acc:16457]
+ENSG00000156273	21	30566392	31009660	1	protein_coding	BACH1	BTB_and_CNC_homology_1,_basic_leucine_zipper_transcription_factor_1_[Source:HGNC_Symbol;Acc:935]
+ENSG00000156282	21	31538241	31538971	-1	protein_coding	CLDN17	claudin_17_[Source:HGNC_Symbol;Acc:2038]
+ENSG00000156284	21	31586324	31588391	-1	protein_coding	CLDN8	claudin_8_[Source:HGNC_Symbol;Acc:2050]
+ENSG00000156299	21	32361860	32932290	-1	protein_coding	TIAM1	T-cell_lymphoma_invasion_and_metastasis_1_[Source:HGNC_Symbol;Acc:11805]
+ENSG00000156304	21	33043313	33104431	-1	protein_coding	SCAF4	SR-related_CTD-associated_factor_4_[Source:HGNC_Symbol;Acc:19304]
+ENSG00000157538	21	38591910	38640262	-1	protein_coding	DSCR3	Down_syndrome_critical_region_gene_3_[Source:HGNC_Symbol;Acc:3044]
+ENSG00000157540	21	38739236	38887680	1	protein_coding	DYRK1A	dual-specificity_tyrosine-(Y)-phosphorylation_regulated_kinase_1A_[Source:HGNC_Symbol;Acc:3091]
+ENSG00000157542	21	38996789	39288749	-1	protein_coding	KCNJ6	potassium_inwardly-rectifying_channel,_subfamily_J,_member_6_[Source:HGNC_Symbol;Acc:6267]
+ENSG00000157551	21	39529128	39673748	1	protein_coding	KCNJ15	potassium_inwardly-rectifying_channel,_subfamily_J,_member_15_[Source:HGNC_Symbol;Acc:6261]
+ENSG00000157554	21	39751949	40033704	-1	protein_coding	ERG	v-ets_erythroblastosis_virus_E26_oncogene_homolog_(avian)_[Source:HGNC_Symbol;Acc:3446]
+ENSG00000157557	21	40177231	40196879	1	protein_coding	ETS2	v-ets_erythroblastosis_virus_E26_oncogene_homolog_2_(avian)_[Source:HGNC_Symbol;Acc:3489]
+ENSG00000157578	21	40777770	40817731	-1	protein_coding	LCA5L	Leber_congenital_amaurosis_5-like_[Source:HGNC_Symbol;Acc:1255]
+ENSG00000157601	21	42792231	42831141	1	protein_coding	MX1	myxovirus_(influenza_virus)_resistance_1,_interferon-inducible_protein_p78_(mouse)_[Source:HGNC_Symbol;Acc:7532]
+ENSG00000157617	21	43305221	43373999	-1	protein_coding	C2CD2	C2_calcium-dependent_domain_containing_2_[Source:HGNC_Symbol;Acc:1266]
+ENSG00000159055	21	33640530	33651380	-1	protein_coding	MIS18A	MIS18_kinetochore_protein_homolog_A_(S._pombe)_[Source:HGNC_Symbol;Acc:1286]
+ENSG00000159079	21	33951132	33985176	-1	protein_coding	C21orf59	chromosome_21_open_reading_frame_59_[Source:HGNC_Symbol;Acc:1301]
+ENSG00000159082	21	33997269	34100359	-1	protein_coding	SYNJ1	synaptojanin_1_[Source:HGNC_Symbol;Acc:11503]
+ENSG00000159086	21	34106210	34144169	-1	protein_coding	GCFC1	GC-rich_sequence_DNA-binding_factor_1_[Source:HGNC_Symbol;Acc:13579]
+ENSG00000159110	21	34602206	34637969	1	protein_coding	IFNAR2	interferon_(alpha,_beta_and_omega)_receptor_2_[Source:HGNC_Symbol;Acc:5433]
+ENSG00000159128	21	34757299	34851655	1	protein_coding	IFNGR2	interferon_gamma_receptor_2_(interferon_gamma_transducer_1)_[Source:HGNC_Symbol;Acc:5440]
+ENSG00000159131	21	34870940	34915797	-1	protein_coding	GART	phosphoribosylglycinamide_formyltransferase,_phosphoribosylglycinamide_synthetase,_phosphoribosylaminoimidazole_synthetase_[Source:HGNC_Symbol;Acc:4163]
+ENSG00000159140	21	34914924	34949812	1	protein_coding	SON	SON_DNA_binding_protein_[Source:HGNC_Symbol;Acc:11183]
+ENSG00000159147	21	34947783	34961014	-1	protein_coding	DONSON	downstream_neighbor_of_SON_[Source:HGNC_Symbol;Acc:2993]
+ENSG00000159197	21	35736323	35743440	1	protein_coding	KCNE2	potassium_voltage-gated_channel,_Isk-related_family,_member_2_[Source:HGNC_Symbol;Acc:6242]
+ENSG00000159200	21	35885440	35987441	-1	protein_coding	RCAN1	regulator_of_calcineurin_1_[Source:HGNC_Symbol;Acc:3040]
+ENSG00000159212	21	36041688	36090525	1	protein_coding	CLIC6	chloride_intracellular_channel_6_[Source:HGNC_Symbol;Acc:2065]
+ENSG00000159216	21	36160098	37357047	-1	protein_coding	RUNX1	runt-related_transcription_factor_1_[Source:HGNC_Symbol;Acc:10471]
+ENSG00000159228	21	37442239	37445464	1	protein_coding	CBR1	carbonyl_reductase_1_[Source:HGNC_Symbol;Acc:1548]
+ENSG00000159231	21	37507210	37518864	1	protein_coding	CBR3	carbonyl_reductase_3_[Source:HGNC_Symbol;Acc:1549]
+ENSG00000159256	21	37692487	37758446	1	protein_coding	MORC3	MORC_family_CW-type_zinc_finger_3_[Source:HGNC_Symbol;Acc:23572]
+ENSG00000159259	21	37757676	37789125	1	protein_coding	CHAF1B	chromatin_assembly_factor_1,_subunit_B_(p60)_[Source:HGNC_Symbol;Acc:1911]
+ENSG00000159261	21	37832919	37948867	-1	protein_coding	CLDN14	claudin_14_[Source:HGNC_Symbol;Acc:2035]
+ENSG00000159263	21	38071433	38131815	1	protein_coding	SIM2	single-minded_homolog_2_(Drosophila)_[Source:HGNC_Symbol;Acc:10883]
+ENSG00000159267	21	38123493	38362536	-1	protein_coding	HLCS	holocarboxylase_synthetase_(biotin-(proprionyl-CoA-carboxylase_(ATP-hydrolysing))_ligase)_[Source:HGNC_Symbol;Acc:4976]
+ENSG00000160179	21	43619799	43720714	1	protein_coding	ABCG1	ATP-binding_cassette,_sub-family_G_(WHITE),_member_1_[Source:HGNC_Symbol;Acc:73]
+ENSG00000160180	21	43731777	43735761	-1	protein_coding	TFF3	trefoil_factor_3_(intestinal)_[Source:HGNC_Symbol;Acc:11757]
+ENSG00000160181	21	43766466	43771237	-1	protein_coding	TFF2	trefoil_factor_2_[Source:HGNC_Symbol;Acc:11756]
+ENSG00000160182	21	43782391	43786703	-1	protein_coding	TFF1	trefoil_factor_1_[Source:HGNC_Symbol;Acc:11755]
+ENSG00000160183	21	38437942	43816955	-1	protein_coding	TMPRSS3	transmembrane_protease,_serine_3_[Source:HGNC_Symbol;Acc:11877]
+ENSG00000160185	21	43824008	43867791	1	protein_coding	UBASH3A	ubiquitin_associated_and_SH3_domain_containing_A_[Source:HGNC_Symbol;Acc:12462]
+ENSG00000160188	21	43892596	43916464	-1	protein_coding	RSPH1	radial_spoke_head_1_homolog_(Chlamydomonas)_[Source:HGNC_Symbol;Acc:12371]
+ENSG00000160190	21	43916128	44001550	1	protein_coding	SLC37A1	solute_carrier_family_37_(glycerol-3-phosphate_transporter),_member_1_[Source:HGNC_Symbol;Acc:11024]
+ENSG00000160191	21	44073746	44195619	1	protein_coding	PDE9A	phosphodiesterase_9A_[Source:HGNC_Symbol;Acc:8795]
+ENSG00000160193	21	44263204	44299678	-1	protein_coding	WDR4	WD_repeat_domain_4_[Source:HGNC_Symbol;Acc:12756]
+ENSG00000160194	21	44299754	44329783	1	protein_coding	NDUFV3	NADH_dehydrogenase_(ubiquinone)_flavoprotein_3,_10kDa_[Source:HGNC_Symbol;Acc:7719]
+ENSG00000160199	21	44394620	44454172	1	protein_coding	PKNOX1	PBX/knotted_1_homeobox_1_[Source:HGNC_Symbol;Acc:9022]
+ENSG00000160200	21	44473301	44497053	-1	protein_coding	CBS	cystathionine-beta-synthase_[Source:HGNC_Symbol;Acc:1550]
+ENSG00000160201	21	44513066	44527697	-1	protein_coding	U2AF1	U2_small_nuclear_RNA_auxiliary_factor_1_[Source:HGNC_Symbol;Acc:12453]
+ENSG00000160202	21	44589118	44592915	1	protein_coding	CRYAA	crystallin,_alpha_A_[Source:HGNC_Symbol;Acc:2388]
+ENSG00000160207	21	44949072	45079374	-1	protein_coding	HSF2BP	heat_shock_transcription_factor_2_binding_protein_[Source:HGNC_Symbol;Acc:5226]
+ENSG00000160208	21	45079429	45115958	1	protein_coding	RRP1B	ribosomal_RNA_processing_1_homolog_B_(S._cerevisiae)_[Source:HGNC_Symbol;Acc:23818]
+ENSG00000160209	21	45138975	45194151	1	protein_coding	PDXK	pyridoxal_(pyridoxine,_vitamin_B6)_kinase_[Source:HGNC_Symbol;Acc:8819]
+ENSG00000160213	21	45192393	45196326	-1	protein_coding	CSTB	cystatin_B_(stefin_B)_[Source:HGNC_Symbol;Acc:2482]
+ENSG00000160214	21	45209394	45225174	1	protein_coding	RRP1	ribosomal_RNA_processing_1_homolog_(S._cerevisiae)_[Source:HGNC_Symbol;Acc:18785]
+ENSG00000160216	21	45285067	45406417	1	protein_coding	AGPAT3	1-acylglycerol-3-phosphate_O-acyltransferase_3_[Source:HGNC_Symbol;Acc:326]
+ENSG00000160218	21	45432200	45526433	1	protein_coding	TRAPPC10	trafficking_protein_particle_complex_10_[Source:HGNC_Symbol;Acc:11868]
+ENSG00000160221	21	45553487	45565605	1	protein_coding	C21orf33	chromosome_21_open_reading_frame_33_[Source:HGNC_Symbol;Acc:1273]
+ENSG00000160223	21	45642874	45660849	-1	protein_coding	ICOSLG	inducible_T-cell_co-stimulator_ligand_[Source:HGNC_Symbol;Acc:17087]
+ENSG00000160224	21	45705721	45718531	1	protein_coding	AIRE	autoimmune_regulator_[Source:HGNC_Symbol;Acc:360]
+ENSG00000160226	21	45748827	45759285	-1	protein_coding	C21orf2	chromosome_21_open_reading_frame_2_[Source:HGNC_Symbol;Acc:1260]
+ENSG00000160233	21	45875369	45878739	1	protein_coding	LRRC3	leucine_rich_repeat_containing_3_[Source:HGNC_Symbol;Acc:14965]
+ENSG00000160255	21	46305868	46351904	-1	protein_coding	ITGB2	integrin,_beta_2_(complement_component_3_receptor_3_and_4_subunit)_[Source:HGNC_Symbol;Acc:6155]
+ENSG00000160256	21	46359925	46396904	1	protein_coding	FAM207A	family_with_sequence_similarity_207,_member_A_[Source:HGNC_Symbol;Acc:15811]
+ENSG00000160282	21	47556176	47575481	-1	protein_coding	FTCD	formiminotransferase_cyclodeaminase_[Source:HGNC_Symbol;Acc:3974]
+ENSG00000160284	21	47581062	47604390	-1	protein_coding	C21orf56	chromosome_21_open_reading_frame_56_[Source:HGNC_Symbol;Acc:1298]
+ENSG00000160285	21	47608360	47648738	-1	protein_coding	LSS	lanosterol_synthase_(2,3-oxidosqualene-lanosterol_cyclase)_[Source:HGNC_Symbol;Acc:6708]
+ENSG00000160294	21	47655047	47706211	-1	protein_coding	MCM3AP	minichromosome_maintenance_complex_component_3_associated_protein_[Source:HGNC_Symbol;Acc:6946]
+ENSG00000160298	21	47720095	47743789	-1	protein_coding	C21orf58	chromosome_21_open_reading_frame_58_[Source:HGNC_Symbol;Acc:1300]
+ENSG00000160299	21	47744036	47865682	1	protein_coding	PCNT	pericentrin_[Source:HGNC_Symbol;Acc:16068]
+ENSG00000160305	21	47878812	47989926	1	protein_coding	DIP2A	DIP2_disco-interacting_protein_2_homolog_A_(Drosophila)_[Source:HGNC_Symbol;Acc:17217]
+ENSG00000160307	21	48018875	48025121	-1	protein_coding	S100B	S100_calcium_binding_protein_B_[Source:HGNC_Symbol;Acc:10500]
+ENSG00000160310	21	48055079	48085036	1	protein_coding	PRMT2	protein_arginine_methyltransferase_2_[Source:HGNC_Symbol;Acc:5186]
+ENSG00000166157	21	10906201	11029719	-1	protein_coding	TPTE	transmembrane_phosphatase_with_tensin_homology_[Source:HGNC_Symbol;Acc:12023]
+ENSG00000166265	21	27838528	27945603	-1	protein_coding	CYYR1	cysteine/tyrosine-rich_1_[Source:HGNC_Symbol;Acc:16274]
+ENSG00000166351	21	14982498	15013906	1	protein_coding	POTED	POTE_ankyrin_domain_family,_member_D_[Source:HGNC_Symbol;Acc:23822]
+ENSG00000166979	21	33784314	33887707	1	protein_coding	C21orf63	chromosome_21_open_reading_frame_63_[Source:HGNC_Symbol;Acc:13239]
+ENSG00000168122	21	14467626	14486111	-1	pseudogene	ZNF355P	zinc_finger_protein_355,_pseudogene_[Source:HGNC_Symbol;Acc:17218]
+ENSG00000169861	21	10862622	10863057	1	IG_V_gene	IGHV1OR21-1	immunoglobulin_heavy_variable_1/OR21-1_(non-functional)_[Source:HGNC_Symbol;Acc:38040]
+ENSG00000170262	21	33664124	33687095	1	protein_coding	MRAP	melanocortin_2_receptor_accessory_protein_[Source:HGNC_Symbol;Acc:1304]
+ENSG00000171189	21	30909254	31312351	-1	protein_coding	GRIK1	glutamate_receptor,_ionotropic,_kainate_1_[Source:HGNC_Symbol;Acc:4579]
+ENSG00000171587	21	41382926	42219065	-1	protein_coding	DSCAM	Down_syndrome_cell_adhesion_molecule_[Source:HGNC_Symbol;Acc:3039]
+ENSG00000173231	21	15148407	15149587	1	pseudogene	TERF1P1	telomeric_repeat_binding_factor_(NIMA-interacting)_1_pseudogene_1_[Source:HGNC_Symbol;Acc:16733]
+ENSG00000173276	21	43406940	43430496	-1	protein_coding	ZNF295	zinc_finger_protein_295_[Source:HGNC_Symbol;Acc:13083]
+ENSG00000173638	21	46913486	46964316	-1	protein_coding	SLC19A1	solute_carrier_family_19_(folate_transporter),_member_1_[Source:HGNC_Symbol;Acc:10937]
+ENSG00000174680	21	31120494	31136321	1	antisense	GRIK1-AS1	GRIK1_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:16458]
+ENSG00000175302	21	14756570	14800094	-1	pseudogene	ANKRD30BP1	ankyrin_repeat_domain_30B_pseudogene_1_[Source:HGNC_Symbol;Acc:19722]
+ENSG00000175894	21	45917775	46131495	-1	protein_coding	TSPEAR	thrombospondin-type_laminin_G_domain_and_EAR_repeats_[Source:HGNC_Symbol;Acc:1268]
+ENSG00000176054	21	30369934	30370354	-1	pseudogene	RPL23P2	ribosomal_protein_L23_pseudogene_2_[Source:HGNC_Symbol;Acc:10324]
+ENSG00000177398	21	43483068	43563105	1	protein_coding	UMODL1	uromodulin-like_1_[Source:HGNC_Symbol;Acc:12560]
+ENSG00000177692	21	34860497	34864027	-1	protein_coding	DNAJC28	DnaJ_(Hsp40)_homolog,_subfamily_C,_member_28_[Source:HGNC_Symbol;Acc:1297]
+ENSG00000178457	21	29385682	29395552	1	lincRNA	LINC00314	long_intergenic_non-protein_coding_RNA_314_[Source:HGNC_Symbol;Acc:16622]
+ENSG00000179381	21	14916603	14917506	-1	pseudogene	OR4K11P	olfactory_receptor,_family_4,_subfamily_K,_member_11_pseudogene_[Source:HGNC_Symbol;Acc:15402]
+ENSG00000180509	21	35818988	35884573	-1	protein_coding	KCNE1	potassium_voltage-gated_channel,_Isk-related_family,_member_1_[Source:HGNC_Symbol;Acc:6240]
+ENSG00000180530	21	16333556	16437321	-1	protein_coding	NRIP1	nuclear_receptor_interacting_protein_1_[Source:HGNC_Symbol;Acc:8001]
+ENSG00000182093	21	40752170	40800454	1	protein_coding	WRB	tryptophan_rich_basic_protein_[Source:HGNC_Symbol;Acc:12790]
+ENSG00000182240	21	42539728	42648524	1	protein_coding	BACE2	beta-site_APP-cleaving_enzyme_2_[Source:HGNC_Symbol;Acc:934]
+ENSG00000182362	21	47706251	47717665	1	protein_coding	YBEY	ybeY_metallopeptidase_(putative)_[Source:HGNC_Symbol;Acc:1299]
+ENSG00000182586	21	46654267	46678645	1	antisense	LINC00334	long_intergenic_non-protein_coding_RNA_334_[Source:HGNC_Symbol;Acc:16425]
+ENSG00000182591	21	32252966	32253874	-1	protein_coding	KRTAP11-1	keratin_associated_protein_11-1_[Source:HGNC_Symbol;Acc:18922]
+ENSG00000182670	21	38445526	38575413	1	protein_coding	TTC3	tetratricopeptide_repeat_domain_3_[Source:HGNC_Symbol;Acc:12393]
+ENSG00000182816	21	31743709	31744557	-1	protein_coding	KRTAP13-2	keratin_associated_protein_13-2_[Source:HGNC_Symbol;Acc:18923]
+ENSG00000182871	21	46825052	46933634	1	protein_coding	COL18A1	collagen,_type_XVIII,_alpha_1_[Source:HGNC_Symbol;Acc:2195]
+ENSG00000182912	21	45937099	45945835	1	protein_coding	C21orf90	chromosome_21_open_reading_frame_90_[Source:HGNC_Symbol;Acc:16428]
+ENSG00000183036	21	41239243	41301322	1	protein_coding	PCP4	Purkinje_cell_protein_4_[Source:HGNC_Symbol;Acc:8742]
+ENSG00000183067	21	41117334	41174023	1	protein_coding	IGSF5	immunoglobulin_superfamily,_member_5_[Source:HGNC_Symbol;Acc:5952]
+ENSG00000183145	21	38378450	38391959	1	protein_coding	DSCR6	Down_syndrome_critical_region_gene_6_[Source:HGNC_Symbol;Acc:3047]
+ENSG00000183249	21	15373248	15377600	1	pseudogene	NF1P3	neurofibromin_1_pseudogene_3_[Source:HGNC_Symbol;Acc:7766]
+ENSG00000183250	21	46352729	46359828	-1	protein_coding	C21orf67	chromosome_21_open_reading_frame_67_[Source:HGNC_Symbol;Acc:15707]
+ENSG00000183255	21	46269500	46293752	-1	protein_coding	PTTG1IP	pituitary_tumor-transforming_1_interacting_protein_[Source:HGNC_Symbol;Acc:13524]
+ENSG00000183421	21	43159529	43187266	-1	protein_coding	RIPK4	receptor-interacting_serine-threonine_kinase_4_[Source:HGNC_Symbol;Acc:496]
+ENSG00000183486	21	42733870	45746674	1	protein_coding	MX2	myxovirus_(influenza_virus)_resistance_2_(mouse)_[Source:HGNC_Symbol;Acc:7533]
+ENSG00000183527	21	40546695	40555777	-1	protein_coding	PSMG1	proteasome_(prosome,_macropain)_assembly_chaperone_1_[Source:HGNC_Symbol;Acc:3043]
+ENSG00000183535	21	46839631	46844985	-1	lincRNA	COL18A1-AS1	COL18A1_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:23132]
+ENSG00000183570	21	47063608	47362368	1	protein_coding	PCBP3	poly(rC)_binding_protein_3_[Source:HGNC_Symbol;Acc:8651]
+ENSG00000183640	21	32185016	32185570	-1	protein_coding	KRTAP8-1	keratin_associated_protein_8-1_[Source:HGNC_Symbol;Acc:18935]
+ENSG00000183653	21	30968360	31003067	1	protein_coding	GRIK1-AS2	GRIK1_antisense_RNA_2_(non-protein_coding)_[Source:HGNC_Symbol;Acc:1282]
+ENSG00000183778	21	40928369	41034816	1	protein_coding	B3GALT5	UDP-Gal:betaGlcNAc_beta_1,3-galactosyltransferase,_polypeptide_5_[Source:HGNC_Symbol;Acc:920]
+ENSG00000183844	21	42676139	42729358	1	protein_coding	FAM3B	family_with_sequence_similarity_3,_member_B_[Source:HGNC_Symbol;Acc:1253]
+ENSG00000184012	21	42836478	42903043	-1	protein_coding	TMPRSS2	transmembrane_protease,_serine_2_[Source:HGNC_Symbol;Acc:11876]
+ENSG00000184029	21	39323728	39493454	-1	protein_coding	DSCR4	Down_syndrome_critical_region_gene_4_[Source:HGNC_Symbol;Acc:3045]
+ENSG00000184032	21	32007555	32007938	1	protein_coding	KRTAP20-2	keratin_associated_protein_20-2_[Source:HGNC_Symbol;Acc:18944]
+ENSG00000184221	21	34442450	34444726	1	protein_coding	OLIG1	oligodendrocyte_transcription_factor_1_[Source:HGNC_Symbol;Acc:16983]
+ENSG00000184274	21	46720160	46725172	-1	lincRNA	LINC00315	long_intergenic_non-protein_coding_RNA_315_[Source:HGNC_Symbol;Acc:16621]
+ENSG00000184351	21	31852018	31852663	-1	protein_coding	KRTAP19-1	keratin_associated_protein_19-1_[Source:HGNC_Symbol;Acc:18936]
+ENSG00000184385	21	43522244	43528644	-1	protein_coding	C21orf128	chromosome_21_open_reading_frame_128_[Source:HGNC_Symbol;Acc:23821]
+ENSG00000184441	21	45751117	45755734	1	processed_transcript		
+ENSG00000184586	21	32201357	32202078	-1	processed_transcript	KRTAP7-1	keratin_associated_protein_7-1_(gene/pseudogene)_[Source:HGNC_Symbol;Acc:18934]
+ENSG00000184724	21	31985750	31989896	-1	protein_coding	KRTAP6-1	keratin_associated_protein_6-1_[Source:HGNC_Symbol;Acc:18931]
+ENSG00000184787	21	46188955	46221934	-1	protein_coding	UBE2G2	ubiquitin-conjugating_enzyme_E2G_2_[Source:HGNC_Symbol;Acc:12483]
+ENSG00000184809	21	40969074	40984748	-1	protein_coding	C21orf88	chromosome_21_open_reading_frame_88_[Source:HGNC_Symbol;Acc:16424]
+ENSG00000184856	21	23470936	23488847	1	lincRNA	LINC00308	long_intergenic_non-protein_coding_RNA_308_[Source:HGNC_Symbol;Acc:16023]
+ENSG00000184900	21	46191374	46238694	-1	protein_coding	SUMO3	SMT3_suppressor_of_mif_two_3_homolog_3_(S._cerevisiae)_[Source:HGNC_Symbol;Acc:11124]
+ENSG00000185186	21	44881974	44899414	-1	lincRNA	LINC00313	long_intergenic_non-protein_coding_RNA_313_[Source:HGNC_Symbol;Acc:16416]
+ENSG00000185272	21	15588451	15600693	1	protein_coding	RBM11	RNA_binding_motif_protein_11_[Source:HGNC_Symbol;Acc:9897]
+ENSG00000185390	21	14721586	14722969	1	pseudogene	FGF7P2	fibroblast_growth_factor_7_pseudogene_2_[Source:HGNC_Symbol;Acc:17193]
+ENSG00000185433	21	26758133	26804013	-1	non_coding	LINC00158	long_intergenic_non-protein_coding_RNA_158_[Source:HGNC_Symbol;Acc:1283]
+ENSG00000185437	21	40817781	40887433	1	protein_coding	SH3BGR	SH3_domain_binding_glutamic_acid-rich_protein_[Source:HGNC_Symbol;Acc:10822]
+ENSG00000185658	21	40556102	40693485	-1	protein_coding	BRWD1	bromodomain_and_WD_repeat_domain_containing_1_[Source:HGNC_Symbol;Acc:12760]
+ENSG00000185808	21	38435146	38445470	-1	protein_coding	PIGP	phosphatidylinositol_glycan_anchor_biosynthesis,_class_P_[Source:HGNC_Symbol;Acc:3046]
+ENSG00000185917	21	37406839	37451687	-1	protein_coding	SETD4	SET_domain_containing_4_[Source:HGNC_Symbol;Acc:1258]
+ENSG00000186842	21	33944548	33948191	-1	lincRNA	C21orf77	chromosome_21_open_reading_frame_77_[Source:HGNC_Symbol;Acc:16080]
+ENSG00000186866	21	46683843	46707813	-1	protein_coding	POFUT2	protein_O-fucosyltransferase_2_[Source:HGNC_Symbol;Acc:14683]
+ENSG00000186924	21	31973414	31973612	1	protein_coding	KRTAP22-1	keratin_associated_protein_22-1_[Source:HGNC_Symbol;Acc:18947]
+ENSG00000186925	21	31913854	31914183	-1	protein_coding	KRTAP19-6	keratin_associated_protein_19-6_[Source:HGNC_Symbol;Acc:18941]
+ENSG00000186930	21	31970909	31971219	-1	protein_coding	KRTAP6-2	keratin_associated_protein_6-2_[Source:HGNC_Symbol;Acc:18932]
+ENSG00000186965	21	31859362	31859755	-1	protein_coding	KRTAP19-2	keratin_associated_protein_19-2_[Source:HGNC_Symbol;Acc:18937]
+ENSG00000186967	21	31869142	31869451	-1	protein_coding	KRTAP19-4	keratin_associated_protein_19-4_[Source:HGNC_Symbol;Acc:18939]
+ENSG00000186970	21	31812597	31813070	1	protein_coding	KRTAP15-1	keratin_associated_protein_15-1_[Source:HGNC_Symbol;Acc:18927]
+ENSG00000186971	21	31802572	31803216	1	protein_coding	KRTAP13-4	keratin_associated_protein_13-4_[Source:HGNC_Symbol;Acc:18926]
+ENSG00000186977	21	31873975	31874435	-1	protein_coding	KRTAP19-5	keratin_associated_protein_19-5_[Source:HGNC_Symbol;Acc:18940]
+ENSG00000186980	21	31720717	31720924	-1	protein_coding	KRTAP23-1	keratin_associated_protein_23-1_[Source:HGNC_Symbol;Acc:18928]
+ENSG00000187005	21	32127439	32127746	-1	protein_coding	KRTAP21-1	keratin_associated_protein_21-1_[Source:HGNC_Symbol;Acc:18945]
+ENSG00000187026	21	32119112	32119551	-1	protein_coding	KRTAP21-2	keratin_associated_protein_21-2_[Source:HGNC_Symbol;Acc:18946]
+ENSG00000187172	21	10996026	11098980	-1	pseudogene	BAGE2	B_melanoma_antigen_family,_member_2_[Source:HGNC_Symbol;Acc:15723]
+ENSG00000187175	21	46101491	46102078	-1	protein_coding	KRTAP12-1	keratin_associated_protein_12-1_[Source:HGNC_Symbol;Acc:20529]
+ENSG00000187766	21	46031996	46032871	1	protein_coding	KRTAP10-8	keratin_associated_protein_10-8_[Source:HGNC_Symbol;Acc:20525]
+ENSG00000188155	21	46011149	46012386	-1	protein_coding	KRTAP10-6	keratin_associated_protein_10-6_[Source:HGNC_Symbol;Acc:20523]
+ENSG00000188660	21	44866481	44873773	1	lincRNA	LINC00319	long_intergenic_non-protein_coding_RNA_319_[Source:HGNC_Symbol;Acc:19730]
+ENSG00000188681	21	9907190	9968585	-1	pseudogene	MAFIP	MAFF_interacting_protein_[Source:HGNC_Symbol;Acc:31102]
+ENSG00000188694	21	31653629	31655276	-1	protein_coding	KRTAP24-1	keratin_associated_protein_24-1_[Source:HGNC_Symbol;Acc:33902]
+ENSG00000188992	21	15481134	15583166	-1	protein_coding	LIPI	lipase,_member_I_[Source:HGNC_Symbol;Acc:18821]
+ENSG00000189089	21	37422512	37423675	1	pseudogene	RIMKLBP1	ribosomal_modification_protein_rimK-like_family_member_B_pseudogene_1_[Source:HGNC_Symbol;Acc:34034]
+ENSG00000189169	21	46117087	46117959	1	protein_coding	KRTAP10-12	keratin_associated_protein_10-12_[Source:HGNC_Symbol;Acc:20533]
+ENSG00000197381	21	46493768	46646478	1	protein_coding	ADARB1	adenosine_deaminase,_RNA-specific,_B1_[Source:HGNC_Symbol;Acc:226]
+ENSG00000197683	21	31691452	31692607	-1	protein_coding	KRTAP26-1	keratin_associated_protein_26-1_[Source:HGNC_Symbol;Acc:33760]
+ENSG00000197934	21	27765954	27941571	1	antisense		
+ENSG00000198054	21	39493545	39560110	1	protein_coding	DSCR8	Down_syndrome_critical_region_gene_8_[Source:HGNC_Symbol;Acc:16707]
+ENSG00000198390	21	31768392	31769136	1	protein_coding	KRTAP13-1	keratin_associated_protein_13-1_[Source:HGNC_Symbol;Acc:18924]
+ENSG00000198434	21	23006773	23007049	-1	pseudogene		
+ENSG00000198618	21	20230097	20230594	1	pseudogene	PPIAP22	peptidylprolyl_isomerase_A_(cyclophilin_A)_pseudogene_22_[Source:HGNC_Symbol;Acc:17236]
+ENSG00000198743	21	35445870	35478559	1	protein_coding	SLC5A3	solute_carrier_family_5_(sodium/myo-inositol_cotransporter),_member_3_[Source:HGNC_Symbol;Acc:11038]
+ENSG00000198862	21	30300466	30365277	-1	protein_coding	LTN1	listerin_E3_ubiquitin_protein_ligase_1_[Source:HGNC_Symbol;Acc:13082]
+ENSG00000199030	21	17912143	17912236	1	miRNA	MIRLET7C	microRNA_let-7c_[Source:HGNC_Symbol;Acc:31480]
+ENSG00000199598	21	45339676	45339782	-1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000199698	21	24804501	24804602	-1	misc_RNA	NA	Y_RNA__[Source:RFAM;Acc:RF00019]
+ENSG00000199806	21	38224211	38224328	1	rRNA	NA	5S_ribosomal_RNA__[Source:RFAM;Acc:RF00001]
+ENSG00000199962	21	18949116	18949224	1	misc_RNA	NA	Y_RNA__[Source:RFAM;Acc:RF00019]
+ENSG00000200213	21	37438843	37438950	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000200754	21	18899458	18899565	-1	misc_RNA	NA	Y_RNA__[Source:RFAM;Acc:RF00019]
+ENSG00000200792	21	33749496	33749631	-1	snoRNA	SNORA80	small_nucleolar_RNA,_H/ACA_box_80_[Source:HGNC_Symbol;Acc:32666]
+ENSG00000201025	21	17657017	17657089	-1	snoRNA	NA	Small_nucleolar_RNA_SNORD74__[Source:RFAM;Acc:RF00284]
+ENSG00000201812	21	15443192	15443307	1	rRNA	NA	5S_ribosomal_RNA__[Source:RFAM;Acc:RF00001]
+ENSG00000201984	21	30511604	30511705	-1	misc_RNA	NA	Y_RNA__[Source:RFAM;Acc:RF00019]
+ENSG00000202239	21	47945531	47945635	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000202339	21	23577511	23577651	1	snRNA	NA	U4_spliceosomal_RNA__[Source:RFAM;Acc:RF00015]
+ENSG00000203616	21	15309314	15309646	-1	pseudogene	RHOT1P2	ras_homolog_gene_family,_member_T1_pseudogene_2_[Source:HGNC_Symbol;Acc:37838]
+ENSG00000205424	21	47247875	47256333	-1	antisense		
+ENSG00000205439	21	46067057	46078258	1	protein_coding	KRTAP12-3	keratin_associated_protein_12-3_[Source:HGNC_Symbol;Acc:20531]
+ENSG00000205441	21	46020497	46022091	1	protein_coding	KRTAP10-7	keratin_associated_protein_10-7_[Source:HGNC_Symbol;Acc:22970]
+ENSG00000205445	21	45970240	45971388	-1	protein_coding	KRTAP10-2	keratin_associated_protein_10-2_[Source:HGNC_Symbol;Acc:22967]
+ENSG00000205581	21	40714241	40721573	-1	protein_coding	HMGN1	high_mobility_group_nucleosome_binding_domain_1_[Source:HGNC_Symbol;Acc:4984]
+ENSG00000205622	21	40249215	40328392	-1	lincRNA		
+ENSG00000205670	21	35747779	35780164	1	protein_coding	FAM165B	family_with_sequence_similarity_165,_member_B_[Source:HGNC_Symbol;Acc:1293]
+ENSG00000205673	21	35321230	35336260	1	lincRNA		
+ENSG00000205726	21	35014706	35272165	1	protein_coding	ITSN1	intersectin_1_(SH3_domain_protein)_[Source:HGNC_Symbol;Acc:6183]
+ENSG00000205758	21	34961647	35016232	-1	protein_coding	CRYZL1	crystallin,_zeta_(quinone_reductase)-like_1_[Source:HGNC_Symbol;Acc:2420]
+ENSG00000205927	21	34398153	34401504	1	protein_coding	OLIG2	oligodendrocyte_lineage_transcription_factor_2_[Source:HGNC_Symbol;Acc:9398]
+ENSG00000205929	21	34162985	34186053	-1	protein_coding	C21orf62	chromosome_21_open_reading_frame_62_[Source:HGNC_Symbol;Acc:1305]
+ENSG00000205930	21	34144411	34266043	1	protein_coding	C21orf49	chromosome_21_open_reading_frame_49_[Source:HGNC_Symbol;Acc:1290]
+ENSG00000206102	21	32410478	32410795	-1	protein_coding	KRTAP19-8	keratin_associated_protein_19-8_[Source:HGNC_Symbol;Acc:33898]
+ENSG00000206104	21	32015183	32015455	1	protein_coding	KRTAP20-3	keratin_associated_protein_20-3_[Source:HGNC_Symbol;Acc:34001]
+ENSG00000206105	21	31992946	31993169	1	protein_coding	KRTAP20-4	keratin_associated_protein_20-4_[Source:HGNC_Symbol;Acc:34002]
+ENSG00000206106	21	31962424	31962716	-1	protein_coding	KRTAP22-2	keratin_associated_protein_22-2_[Source:HGNC_Symbol;Acc:37091]
+ENSG00000206107	21	31709331	31710012	-1	protein_coding	KRTAP27-1	keratin_associated_protein_27-1_[Source:HGNC_Symbol;Acc:33864]
+ENSG00000206802	21	27563026	27563132	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000207097	21	14419904	14420010	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000207098	21	34214171	34214305	-1	snoRNA	NA	Small_nucleolar_RNA_SNORA70__[Source:RFAM;Acc:RF00156]
+ENSG00000207147	21	41885071	41885206	1	snoRNA	NA	Small_nucleolar_RNA_SNORA51__[Source:RFAM;Acc:RF00432]
+ENSG00000207416	21	38359039	38359151	-1	misc_RNA	NA	Y_RNA__[Source:RFAM;Acc:RF00019]
+ENSG00000207476	21	14993898	14994004	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000207503	21	42911133	42911253	1	snoRNA	NA	Small_nucleolar_RNA_SNORA32__[Source:RFAM;Acc:RF00421]
+ENSG00000207638	21	17911409	17911489	1	miRNA	MIR99A	microRNA_99a_[Source:HGNC_Symbol;Acc:31650]
+ENSG00000207795	21	26946292	26946356	1	miRNA	MIR155	microRNA_155_[Source:HGNC_Symbol;Acc:31542]
+ENSG00000207863	21	17962557	17962645	1	miRNA	MIR125B2	microRNA_125b-2_[Source:HGNC_Symbol;Acc:31507]
+ENSG00000211541	21	33464591	33464731	-1	miRNA		
+ENSG00000211590	21	37093013	37093106	1	miRNA	MIR802	microRNA_802_[Source:HGNC_Symbol;Acc:33140]
+ENSG00000212136	21	38417830	38417936	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000212479	21	30552747	30552960	-1	snoRNA	NA	Small_nucleolar_RNA_U3__[Source:RFAM;Acc:RF00012]
+ENSG00000212564	21	16986602	16986708	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000212609	21	20717465	20717629	1	snRNA	NA	U1_spliceosomal_RNA__[Source:RFAM;Acc:RF00003]
+ENSG00000212932	21	48110676	48111157	1	pseudogene	RPL23AP4	ribosomal_protein_L23a_pseudogene_4_[Source:HGNC_Symbol;Acc:10321]
+ENSG00000212933	21	46074130	46074576	-1	protein_coding	KRTAP12-4	keratin_associated_protein_12-4_[Source:HGNC_Symbol;Acc:20532]
+ENSG00000212935	21	45977673	45978643	-1	protein_coding	KRTAP10-3	keratin_associated_protein_10-3_[Source:HGNC_Symbol;Acc:22968]
+ENSG00000212938	21	31964759	31965394	1	protein_coding	KRTAP6-3	keratin_associated_protein_6-3_[Source:HGNC_Symbol;Acc:18933]
+ENSG00000213440	21	45466228	45466922	-1	pseudogene	H2AFZP1	H2A_histone_family,_member_Z_pseudogene_1_[Source:HGNC_Symbol;Acc:4742]
+ENSG00000213885	21	26734135	26734745	1	pseudogene	RPL13AP7	ribosomal_protein_L13a_pseudogene_7_[Source:HGNC_Symbol;Acc:23755]
+ENSG00000214319	21	15048343	15049437	1	pseudogene	CXADRP1	coxsackie_virus_and_adenovirus_receptor_pseudogene_1_[Source:HGNC_Symbol;Acc:23770]
+ENSG00000214326	21	44971110	44971481	1	pseudogene	RPL31P1	ribosomal_protein_L31_pseudogene_1_[Source:HGNC_Symbol;Acc:10335]
+ENSG00000214867	21	37667471	37668000	-1	pseudogene	SRSF9P1	serine/arginine-rich_splicing_factor_9_pseudogene_1_[Source:HGNC_Symbol;Acc:10792]
+ENSG00000214889	21	37504748	37505330	1	pseudogene	RPS9P1	ribosomal_protein_S9_pseudogene_1_[Source:HGNC_Symbol;Acc:10443]
+ENSG00000214914	21	37388377	37388844	-1	pseudogene	RPL23AP3	ribosomal_protein_L23a_pseudogene_3_[Source:HGNC_Symbol;Acc:10320]
+ENSG00000214955	21	35445892	35732332	1	processed_transcript		
+ENSG00000214976	21	17466735	17467692	-1	pseudogene	VDAC2P1	voltage-dependent_anion_channel_2_pseudogene_1_[Source:HGNC_Symbol;Acc:12673]
+ENSG00000215005	21	30259602	30261594	-1	pseudogene	HSPD1P7	heat_shock_60kDa_protein_1_(chaperonin)_pseudogene_7_[Source:HGNC_Symbol;Acc:5268]
+ENSG00000215088	21	34853887	34854502	-1	pseudogene	RPS5P3	ribosomal_protein_S5_pseudogene_3_[Source:HGNC_Symbol;Acc:10427]
+ENSG00000215201	21	33826002	33830768	1	pseudogene		
+ENSG00000215317	21	30274101	30276019	-1	pseudogene	THUMPD1P1	THUMP_domain_containing_1_pseudogene_1_[Source:HGNC_Symbol;Acc:23808]
+ENSG00000215326	21	28515663	28516268	-1	pseudogene	GPX1P2	glutathione_peroxidase_pseudogene_2_[Source:HGNC_Symbol;Acc:4561]
+ENSG00000215351	21	22200445	22200940	-1	pseudogene	PPIAP1	peptidylprolyl_isomerase_A_(cyclophilin_A),_pseudogene_1_[Source:HGNC_Symbol;Acc:9254]
+ENSG00000215353	21	21131673	21132442	-1	pseudogene	C1QBPP	complement_component_1,_q_subcomponent_binding_protein,_pseudogene_[Source:HGNC_Symbol;Acc:1244]
+ENSG00000215369	21	19266510	19266802	-1	pseudogene	RPL37P3	ribosomal_protein_L37_pseudogene_3_[Source:HGNC_Symbol;Acc:17238]
+ENSG00000215386	21	17442842	17982094	1	lincRNA	LINC00478	long_intergenic_non-protein_coding_RNA_478_[Source:HGNC_Symbol;Acc:1274]
+ENSG00000215424	21	47649145	47671615	1	lincRNA	MCM3AP-AS1	MCM3AP_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:16417]
+ENSG00000215447	21	46707967	46711653	1	lincRNA		
+ENSG00000215454	21	45993606	45994987	1	protein_coding	KRTAP10-4	keratin_associated_protein_10-4_[Source:HGNC_Symbol;Acc:20521]
+ENSG00000215455	21	45958864	45960078	-1	protein_coding	KRTAP10-1	keratin_associated_protein_10-1_[Source:HGNC_Symbol;Acc:22966]
+ENSG00000215458	21	45225639	45232448	-1	antisense		
+ENSG00000215494	21	43313829	43315499	-1	protein_coding	NA	Uncharacterized_protein_[Source:UniProtKB/TrEMBL;Acc:E7ETR8]
+ENSG00000215533	21	30565801	30660526	1	processed_transcript	LINC00189	long_intergenic_non-protein_coding_RNA_189_[Source:HGNC_Symbol;Acc:18461]
+ENSG00000215557	21	15608527	15685346	1	processed_transcript		
+ENSG00000215559	21	15281895	15352758	-1	pseudogene	ANKRD20A11P	ankyrin_repeat_domain_20_family,_member_A11,_pseudogene_[Source:HGNC_Symbol;Acc:42024]
+ENSG00000215562	21	15199017	15199948	1	pseudogene	CNN2P7	calponin_2_pseudogene_7_[Source:HGNC_Symbol;Acc:39532]
+ENSG00000215734	21	38366943	38367375	1	pseudogene	MRPL20P1	mitochondrial_ribosomal_protein_L20_pseudogene_1_[Source:HGNC_Symbol;Acc:29699]
+ENSG00000216197	21	43720384	43720455	-1	miRNA		
+ENSG00000217026	21	28792699	28793342	-1	pseudogene	RPL10P1	ribosomal_protein_L10_pseudogene_1_[Source:HGNC_Symbol;Acc:10300]
+ENSG00000218125	21	31898864	31899019	-1	pseudogene		
+ENSG00000218549	21	14953365	14954325	-1	pseudogene	OR4K12P	olfactory_receptor,_family_4,_subfamily_K,_member_12_pseudogene_[Source:HGNC_Symbol;Acc:15403]
+ENSG00000219280	21	14848692	14849584	1	pseudogene	VN1R8P	vomeronasal_1_receptor_8_pseudogene_[Source:HGNC_Symbol;Acc:8497]
+ENSG00000219368	21	24462350	24464153	-1	pseudogene	ZNF299P	zinc_finger_protein_299,_pseudogene_[Source:HGNC_Symbol;Acc:13088]
+ENSG00000219592	21	28864437	28864580	1	pseudogene	NCSTNP1	nicastrin_pseudogene_1_[Source:HGNC_Symbol;Acc:39606]
+ENSG00000221210	21	22770068	22770146	-1	miRNA		
+ENSG00000221335	21	19264028	19264116	1	miRNA		
+ENSG00000221396	21	41949431	41949538	1	miRNA		
+ENSG00000221398	21	35828408	35828535	-1	snoRNA	NA	Small_nucleolar_RNA_SNORA11__[Source:RFAM;Acc:RF00614]
+ENSG00000221497	21	17065527	17065622	1	miRNA		
+ENSG00000221837	21	46047040	46048294	1	protein_coding	KRTAP10-9	keratin_associated_protein_10-9_[Source:HGNC_Symbol;Acc:22971]
+ENSG00000221859	21	46057273	46058370	1	protein_coding	KRTAP10-10	keratin_associated_protein_10-10_[Source:HGNC_Symbol;Acc:22972]
+ENSG00000221864	21	46086106	46086844	-1	protein_coding	KRTAP12-2	keratin_associated_protein_12-2_[Source:HGNC_Symbol;Acc:20530]
+ENSG00000222018	21	35772615	35773370	-1	protein_coding	NA	Uncharacterized_protein_[Source:UniProtKB/TrEMBL;Acc:B9A014]
+ENSG00000222042	21	26541745	26706139	-1	lincRNA		
+ENSG00000222567	21	26473445	26473728	1	misc_RNA	NA	7SK_RNA__[Source:RFAM;Acc:RF00100]
+ENSG00000223078	21	24654058	24654231	-1	snRNA	NA	U2_spliceosomal_RNA__[Source:RFAM;Acc:RF00004]
+ENSG00000223262	21	43641283	43641396	1	rRNA	NA	5S_ribosomal_RNA__[Source:RFAM;Acc:RF00001]
+ENSG00000223287	21	15340810	15340916	-1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000223400	21	42948062	42953246	-1	lincRNA		
+ENSG00000223431	21	45892778	45893622	1	pseudogene	MTND6P21	MT-ND6_pseudogene_21_[Source:HGNC_Symbol;Acc:39639]
+ENSG00000223488	21	23808610	23810669	-1	pseudogene	MAPK6PS2	mitogen-activated_protein_kinase_6_pseudogene_2_[Source:HGNC_Symbol;Acc:16756]
+ENSG00000223563	21	28261695	28312061	1	antisense		
+ENSG00000223608	21	39378846	39382920	-1	sense_intronic	DSCR4-IT1	DSCR4_intronic_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:41328]
+ENSG00000223662	21	15954523	15970624	1	antisense	SAMSN1-AS1	SAMSN1_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:39599]
+ENSG00000223671	21	36844395	36844730	-1	pseudogene	RPL34P3	ribosomal_protein_L34_pseudogene_3_[Source:HGNC_Symbol;Acc:10343]
+ENSG00000223692	21	47882384	47889219	1	sense_intronic	DIP2A-IT1	DIP2A_intronic_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:41430]
+ENSG00000223741	21	37858281	37859709	-1	pseudogene	PSMD4P1	proteasome_(prosome,_macropain)_26S_subunit,_non-ATPase,_4_pseudogene_1_[Source:HGNC_Symbol;Acc:9562]
+ENSG00000223768	21	46713200	46717269	1	non_coding	LINC00205	long_intergenic_non-protein_coding_RNA_205_[Source:HGNC_Symbol;Acc:16420]
+ENSG00000223799	21	34636178	34638565	-1	lincRNA		
+ENSG00000223806	21	40110825	40140898	-1	lincRNA	LINC00114	long_intergenic_non-protein_coding_RNA_114_[Source:HGNC_Symbol;Acc:1265]
+ENSG00000223822	21	24762579	24763317	1	pseudogene	EEF1A1P1	eukaryotic_translation_elongation_factor_1_alpha_1_pseudogene_[Source:HGNC_Symbol;Acc:3191]
+ENSG00000223870	21	26499782	26507561	1	lincRNA		
+ENSG00000223901	21	47640183	47641992	1	antisense		
+ENSG00000223925	21	10899082	10900005	1	pseudogene	SLC25A15P4	solute_carrier_family_25_(mitochondrial_carrier;_ornithine_transporter)_member_15_pseudogene_4_[Source:HGNC_Symbol;Acc:39845]
+ENSG00000223975	21	44885189	44887178	1	lincRNA		
+ENSG00000224018	21	25527484	25560655	-1	lincRNA		
+ENSG00000224100	21	44384749	44385473	-1	antisense		
+ENSG00000224141	21	19933583	20132321	-1	lincRNA		
+ENSG00000224247	21	16866251	16868443	-1	lincRNA		
+ENSG00000224269	21	38071073	38073864	-1	antisense		
+ENSG00000224309	21	14410481	14439354	1	pseudogene	ANKRD30BP2	ankyrin_repeat_domain_30B_pseudogene_2_[Source:HGNC_Symbol;Acc:16620]
+ENSG00000224388	21	42552024	42552553	1	antisense	BACE2-IT1	BACE2_intronic_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:16024]
+ENSG00000224413	21	47456966	47459721	1	lincRNA		
+ENSG00000224421	21	37761176	37761410	-1	pseudogene	ATP5J2LP	ATP_synthase,_H+_transporting,_mitochondrial_Fo_complex,_subunit_F2-like_pseudogene_[Source:HGNC_Symbol;Acc:849]
+ENSG00000224427	21	34213806	34214121	-1	pseudogene		
+ENSG00000224524	21	16862849	16863086	-1	pseudogene	CYCSP42	cytochrome_c,_somatic_pseudogene_42_[Source:HGNC_Symbol;Acc:2581]
+ENSG00000224541	21	27530409	27548142	1	antisense		
+ENSG00000224574	21	46827301	46829980	-1	antisense	COL18A1-AS2	COL18A1_antisense_RNA_2_(non-protein_coding)_[Source:HGNC_Symbol;Acc:40155]
+ENSG00000224598	21	35507732	35508371	-1	pseudogene	RPS5P2	ribosomal_protein_S5_pseudogene_2_[Source:HGNC_Symbol;Acc:17222]
+ENSG00000224602	21	17493630	17493964	-1	pseudogene	RPS26P5	ribosomal_protein_S26_pseudogene_5_[Source:HGNC_Symbol;Acc:23776]
+ENSG00000224649	21	30554348	30560116	-1	antisense		
+ENSG00000224747	21	45889812	45892399	-1	pseudogene		
+ENSG00000224790	21	38338812	38344128	1	lincRNA		
+ENSG00000224832	21	25676863	25693690	-1	lincRNA		
+ENSG00000224860	21	15196727	15197956	-1	pseudogene	GXYLT1P2	glucoside_xylosyltransferase_1_pseudogene_2_[Source:HGNC_Symbol;Acc:39677]
+ENSG00000224905	21	15399742	15516789	1	processed_transcript		
+ENSG00000224922	21	15142253	15144061	1	lincRNA		
+ENSG00000224924	21	22114908	22175426	-1	lincRNA	LINC00320	long_intergenic_non-protein_coding_RNA_320_[Source:HGNC_Symbol;Acc:19690]
+ENSG00000224930	21	46419122	46424642	-1	lincRNA	LINC00162	long_intergenic_non-protein_coding_RNA_162_[Source:HGNC_Symbol;Acc:19725]
+ENSG00000225043	21	47840467	47840948	-1	pseudogene	RPL18AP2	ribosomal_protein_L18a_pseudogene_2_[Source:HGNC_Symbol;Acc:23774]
+ENSG00000225218	21	44251150	44256587	-1	lincRNA		
+ENSG00000225267	21	31635698	31636199	-1	pseudogene	RPL8P2	ribosomal_protein_L8_pseudogene_2_[Source:HGNC_Symbol;Acc:17220]
+ENSG00000225298	21	29094698	29123552	1	lincRNA	LINC00113	long_intergenic_non-protein_coding_RNA_113_[Source:HGNC_Symbol;Acc:1264]
+ENSG00000225330	21	41002198	41098012	1	processed_transcript		
+ENSG00000225331	21	45578623	45579959	-1	lincRNA		
+ENSG00000225431	21	44019390	44035168	-1	lincRNA		
+ENSG00000225502	21	16146622	16147583	1	pseudogene	GAPDHP16	glyceraldehyde-3-phosphate_dehydrogenase_pseudogene_16_[Source:HGNC_Symbol;Acc:23768]
+ENSG00000225555	21	35743101	35747647	-1	antisense		
+ENSG00000225637	21	44783212	44786446	1	lincRNA		
+ENSG00000225731	21	44153704	44161868	-1	antisense		
+ENSG00000225735	21	18582787	18583665	-1	pseudogene	NEK4P1	NIMA_(never_in_mitosis_gene_a)-related_kinase_4_pseudogene_1_[Source:HGNC_Symbol;Acc:39649]
+ENSG00000225745	21	42548249	42558715	-1	processed_transcript		
+ENSG00000225906	21	24254903	24256321	1	pseudogene		
+ENSG00000226012	21	39609139	39610123	-1	lincRNA		
+ENSG00000226043	21	23582258	23793139	1	lincRNA		
+ENSG00000226054	21	37502669	37504208	1	pseudogene	MEMO1P1	mediator_of_cell_motility_1_pseudogene_1_[Source:HGNC_Symbol;Acc:23274]
+ENSG00000226115	21	47476430	47477481	1	lincRNA		
+ENSG00000226204	21	20325582	20339376	-1	lincRNA		
+ENSG00000226298	21	17066619	17068900	-1	pseudogene	RAD23BLP	RAD23_homolog_B-like_(S._cerevisiae)_pseudogene_[Source:HGNC_Symbol;Acc:9814]
+ENSG00000226406	21	16201475	16202310	-1	pseudogene	RBMX2P1	RNA_binding_motif_protein,_X-linked_2_pseudogene_1_[Source:HGNC_Symbol;Acc:39923]
+ENSG00000226433	21	34528938	34531416	1	antisense		
+ENSG00000226496	21	42513427	42520060	-1	antisense	LINC00323	long_intergenic_non-protein_coding_RNA_323_[Source:HGNC_Symbol;Acc:19720]
+ENSG00000226501	21	34706877	34707402	1	pseudogene	USF1P1	upstream_transcription_factor_1_pseudogene_1_[Source:HGNC_Symbol;Acc:23773]
+ENSG00000226527	21	34484005	34496009	-1	lincRNA		
+ENSG00000226543	21	45275771	45276223	-1	pseudogene	MYL6P1	myosin,_light_chain_6_pseudogene_1_[Source:HGNC_Symbol;Acc:7588]
+ENSG00000226580	21	18872997	18873142	-1	pseudogene	RPL39P40	ribosomal_protein_L39_pseudogene_40_[Source:HGNC_Symbol;Acc:35823]
+ENSG00000226751	21	16134031	16135411	1	lincRNA		
+ENSG00000226771	21	22595616	22599150	-1	antisense		
+ENSG00000226818	21	20616860	20618709	1	pseudogene	SLC6A6P1	solute_carrier_family_6,_member_6_pseudogene_1_[Source:HGNC_Symbol;Acc:11053]
+ENSG00000226930	21	14815694	14861497	-1	pseudogene	GTF2IP2	general_transcription_factor_IIi,_pseudogene_2_[Source:HGNC_Symbol;Acc:16082]
+ENSG00000226935	21	29911640	29912677	1	lincRNA	LINC00161	long_intergenic_non-protein_coding_RNA_161_[Source:HGNC_Symbol;Acc:17138]
+ENSG00000226956	21	19031594	19032702	-1	lincRNA		
+ENSG00000226983	21	26212864	26430059	1	lincRNA		
+ENSG00000226996	21	25415572	25422601	1	lincRNA		
+ENSG00000227039	21	46340966	46349593	1	lincRNA		
+ENSG00000227054	21	27064492	27064866	1	pseudogene	FDX1P2	ferredoxin_1_pseudogene_2_[Source:HGNC_Symbol;Acc:3641]
+ENSG00000227075	21	23305635	23348000	-1	lincRNA		
+ENSG00000227090	21	26258990	26275070	-1	lincRNA		
+ENSG00000227256	21	33650174	33653299	1	antisense		
+ENSG00000227330	21	19394687	19487222	-1	lincRNA		
+ENSG00000227342	21	31581469	31584101	-1	lincRNA	LINC00307	long_intergenic_non-protein_coding_RNA_307_[Source:HGNC_Symbol;Acc:16727]
+ENSG00000227406	21	40745689	40748992	-1	pseudogene	RNF6P1	ring_finger_protein_(C3H2C3_type)_6_pseudogene_1_[Source:HGNC_Symbol;Acc:39922]
+ENSG00000227438	21	47513178	47517444	-1	antisense		
+ENSG00000227456	21	35552978	35562220	1	lincRNA	LINC00310	long_intergenic_non-protein_coding_RNA_310_[Source:HGNC_Symbol;Acc:16414]
+ENSG00000227691	21	10935976	10936167	-1	pseudogene	CYCSP41	cytochrome_c,_somatic_pseudogene_41_[Source:HGNC_Symbol;Acc:2580]
+ENSG00000227698	21	43294865	43297722	-1	sense_intronic		
+ENSG00000227702	21	43099341	43117496	1	lincRNA	LINC00111	long_intergenic_non-protein_coding_RNA_111_[Source:HGNC_Symbol;Acc:1262]
+ENSG00000227716	21	24849960	24863043	1	lincRNA		
+ENSG00000227721	21	40266841	40267176	1	pseudogene	RPSAP64	ribosomal_protein_SA_pseudogene_64_[Source:HGNC_Symbol;Acc:39642]
+ENSG00000227757	21	34285957	34443410	-1	antisense		
+ENSG00000227840	21	32179250	32179437	-1	pseudogene	KRTAP8-3P	keratin_associated_protein_8-3,_pseudogene_[Source:HGNC_Symbol;Acc:18949]
+ENSG00000227874	21	15038189	15039867	-1	pseudogene	GRAMD4P1	GRAM_domain_containing_4_pseudogene_1_[Source:HGNC_Symbol;Acc:39653]
+ENSG00000227999	21	45893606	45894980	-1	pseudogene	MTND5P1	MT-ND5_pseudogene_1_[Source:HGNC_Symbol;Acc:39644]
+ENSG00000228107	21	37732928	37734338	1	processed_transcript		
+ENSG00000228120	21	44579176	44582387	-1	protein_coding		
+ENSG00000228137	21	47666804	47667596	1	antisense		
+ENSG00000228149	21	37541268	37542478	-1	pseudogene	RPL3P1	ribosomal_protein_L3_pseudogene_1_[Source:HGNC_Symbol;Acc:10352]
+ENSG00000228159	21	14918354	14930782	1	lincRNA		
+ENSG00000228184	21	14897920	14900900	1	pseudogene	SNX19P1	sorting_nexin_19_pseudogene_1_[Source:HGNC_Symbol;Acc:16765]
+ENSG00000228235	21	47472510	47473019	1	lincRNA		
+ENSG00000228314	21	15215454	15220685	-1	pseudogene	CYP4F29P	cytochrome_P450,_family_4,_subfamily_F,_polypeptide_29,_pseudogene_[Source:HGNC_Symbol;Acc:2647]
+ENSG00000228318	21	42813321	42814669	-1	antisense		
+ENSG00000228349	21	40863470	40863824	-1	pseudogene	RPS26P4	ribosomal_protein_S26_pseudogene_4_[Source:HGNC_Symbol;Acc:23775]
+ENSG00000228355	21	46798116	46799550	-1	antisense		
+ENSG00000228404	21	47604993	47608855	1	antisense		
+ENSG00000228433	21	33993359	33994406	1	pseudogene	OR7E23P	olfactory_receptor,_family_7,_subfamily_E,_member_23_pseudogene_[Source:HGNC_Symbol;Acc:8395]
+ENSG00000228592	21	24733426	24757182	-1	lincRNA		
+ENSG00000228600	21	16129909	16130673	1	pseudogene	POLR2CP	polymerase_(RNA)_II_(DNA_directed)_polypeptide_C,_pseudogene_[Source:HGNC_Symbol;Acc:9190]
+ENSG00000228677	21	38559967	38566227	-1	antisense		
+ENSG00000228708	21	19849676	19858917	-1	processed_transcript		
+ENSG00000228709	21	45905460	45910171	1	lincRNA		
+ENSG00000228798	21	18003146	18013002	1	lincRNA		
+ENSG00000228817	21	30744821	30745886	1	sense_intronic	BACH1-IT2	BACH1_intronic_transcript_2_(non-protein_coding)_[Source:HGNC_Symbol;Acc:40007]
+ENSG00000228861	21	40499494	40499966	1	pseudogene	RPL23AP12	ribosomal_protein_L23a_pseudogene_12_[Source:HGNC_Symbol;Acc:23840]
+ENSG00000228930	21	46796106	46796297	-1	pseudogene	MTCO1P3	MT-CO1_pseudogene_3_[Source:HGNC_Symbol;Acc:39604]
+ENSG00000228941	21	32432919	32435487	-1	pseudogene	UBE3AP2	ubiquitin_protein_ligase_E3A_pseudogene_2_[Source:HGNC_Symbol;Acc:12498]
+ENSG00000228961	21	34331196	34332874	1	lincRNA		
+ENSG00000229007	21	33869122	33869621	1	pseudogene	EXOSC3P1	exosome_component_3_pseudogene_1_[Source:HGNC_Symbol;Acc:33989]
+ENSG00000229025	21	27722099	27722953	-1	lincRNA		
+ENSG00000229046	21	33078868	33079177	1	pseudogene	HMGN1P2	high_mobility_group_nucleosome_binding_domain_1_pseudogene_2_[Source:HGNC_Symbol;Acc:4985]
+ENSG00000229047	21	16333630	16336554	1	antisense		
+ENSG00000229086	21	34537776	34542954	-1	protein_coding	C21orf54	chromosome_21_open_reading_frame_54_[Source:HGNC_Symbol;Acc:1296]
+ENSG00000229231	21	15134659	15136653	1	pseudogene	FEM1AP1	fem-1_homolog_a_(C._elegans)_pseudogene_1_[Source:HGNC_Symbol;Acc:17219]
+ENSG00000229289	21	20502841	20506741	1	lincRNA		
+ENSG00000229306	21	14371997	14389013	-1	lincRNA		
+ENSG00000229336	21	21112023	21112464	1	pseudogene		
+ENSG00000229356	21	45870869	45875167	-1	antisense		
+ENSG00000229382	21	46756622	46758580	1	lincRNA		
+ENSG00000229425	21	16742841	16774624	-1	lincRNA		
+ENSG00000229623	21	40607312	40607946	-1	pseudogene	METTL21AP1	methyltransferase_like_21A_pseudogene_1_[Source:HGNC_Symbol;Acc:41921]
+ENSG00000229761	21	37097045	37097398	-1	pseudogene	RPS20P1	ribosomal_protein_S20_pseudogene_1_[Source:HGNC_Symbol;Acc:10408]
+ENSG00000229880	21	46095785	46098003	-1	pseudogene	IMMTP1	inner_membrane_protein,_mitochondrial_(mitofilin)_pseudogene_1_[Source:HGNC_Symbol;Acc:6048]
+ENSG00000229925	21	40260696	40275829	1	processed_transcript		
+ENSG00000229962	21	26887785	26890650	-1	lincRNA		
+ENSG00000229986	21	40218171	40220568	1	lincRNA		
+ENSG00000230061	21	45834473	45845155	-1	lincRNA		
+ENSG00000230198	21	20966155	20966422	1	pseudogene	RPL37P4	ribosomal_protein_L37_pseudogene_4_[Source:HGNC_Symbol;Acc:17239]
+ENSG00000230212	21	37441940	37498938	-1	processed_transcript		
+ENSG00000230233	21	19986749	20022678	1	lincRNA		
+ENSG00000230323	21	33452629	33570125	-1	lincRNA	LINC00159	long_intergenic_non-protein_coding_RNA_159_[Source:HGNC_Symbol;Acc:1285]
+ENSG00000230366	21	38580804	38594041	1	lincRNA	DSCR9	Down_syndrome_critical_region_gene_9_(non-protein_coding)_[Source:HGNC_Symbol;Acc:16301]
+ENSG00000230379	21	26310745	26365129	-1	lincRNA		
+ENSG00000230479	21	37802658	37853368	1	antisense		
+ENSG00000230794	21	37085437	37105240	-1	processed_transcript		
+ENSG00000230859	21	42235920	42236399	1	pseudogene	YRDCP3	yrdC_domain_containing_(E._coli)_pseudogene_3_[Source:HGNC_Symbol;Acc:39921]
+ENSG00000230870	21	32999440	33000913	-1	pseudogene	FBXW11P1	F-box_and_WD_repeat_domain_containing_11_pseudogene_1_[Source:HGNC_Symbol;Acc:1145]
+ENSG00000230965	21	15278281	15278809	-1	pseudogene	SNX18P13	sorting_nexin_18_pseudogene_13_[Source:HGNC_Symbol;Acc:39621]
+ENSG00000230972	21	24437813	24503528	1	processed_transcript		
+ENSG00000230978	21	36096105	36109478	-1	lincRNA	LINC00160	long_intergenic_non-protein_coding_RNA_160_[Source:HGNC_Symbol;Acc:1294]
+ENSG00000230982	21	48073470	48073934	-1	pseudogene	DSTNP1	destrin_(actin_depolymerizing_factor)_pseudogene_1_[Source:HGNC_Symbol;Acc:23769]
+ENSG00000231058	21	24473545	24475396	1	pseudogene		
+ENSG00000231068	21	32090843	32091095	-1	protein_coding	KRTAP21-3	keratin_associated_protein_21-3_[Source:HGNC_Symbol;Acc:34216]
+ENSG00000231106	21	37377636	37379899	1	antisense		
+ENSG00000231123	21	39610149	39610586	-1	pseudogene	SPATA20P1	spermatogenesis_associated_20_pseudogene_1_[Source:HGNC_Symbol;Acc:39636]
+ENSG00000231125	21	30430394	30431977	-1	antisense		
+ENSG00000231136	21	23526270	23526619	-1	pseudogene		
+ENSG00000231201	21	16343791	16365175	1	antisense		
+ENSG00000231231	21	39695557	39705343	-1	lincRNA		
+ENSG00000231236	21	28731204	28820898	-1	processed_transcript		
+ENSG00000231300	21	36972030	36972320	-1	pseudogene	EZH2P1	enhancer_of_zeste_homolog_2_(Drosophila)_pseudogene_1_[Source:HGNC_Symbol;Acc:39918]
+ENSG00000231324	21	38004979	38009331	-1	lincRNA		
+ENSG00000231355	21	34854806	34856565	-1	antisense		
+ENSG00000231480	21	39874369	39874545	1	pseudogene	SNRPGP13	small_nuclear_ribonucleoprotein_polypeptide_G_pseudogene_13_[Source:HGNC_Symbol;Acc:39332]
+ENSG00000231620	21	20673930	20676056	1	lincRNA		
+ENSG00000231713	21	41099682	41102607	1	lincRNA		
+ENSG00000231755	21	19207333	19257925	-1	lincRNA	CHODL-AS1	CHODL_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:1279]
+ENSG00000231820	21	47170542	47172900	1	sense_intronic		
+ENSG00000231867	21	43928734	43929771	1	sense_intronic		
+ENSG00000231962	21	11153837	11155057	-1	pseudogene	VN1R7P	vomeronasal_1_receptor_7_pseudogene_[Source:HGNC_Symbol;Acc:8496]
+ENSG00000231986	21	25261114	25262857	-1	lincRNA		
+ENSG00000232010	21	45670696	45671403	1	antisense		
+ENSG00000232079	21	29420733	29509930	1	lincRNA		
+ENSG00000232118	21	30742340	30743547	-1	antisense	BACH1-AS1	BACH1_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:40008]
+ENSG00000232124	21	45621173	45622579	1	antisense		
+ENSG00000232193	21	20290252	20308177	-1	lincRNA		
+ENSG00000232260	21	18890841	18891311	-1	pseudogene	BTF3L4P1	basic_transcription_factor_3-like_4_pseudogene_1_[Source:HGNC_Symbol;Acc:39645]
+ENSG00000232263	21	31661463	31661832	-1	protein_coding	KRTAP25-1	keratin_associated_protein_25-1_[Source:HGNC_Symbol;Acc:34003]
+ENSG00000232360	21	34216677	34222244	-1	antisense		
+ENSG00000232401	21	43136596	43137740	1	antisense	LINC00112	long_intergenic_non-protein_coding_RNA_112_[Source:HGNC_Symbol;Acc:1263]
+ENSG00000232512	21	26467335	26475983	1	lincRNA		
+ENSG00000232539	21	34430135	34437289	1	lincRNA		
+ENSG00000232560	21	18811208	18821503	1	protein_coding	C21orf37	chromosome_21_open_reading_frame_37_[Source:HGNC_Symbol;Acc:1277]
+ENSG00000232608	21	40588550	40589432	1	pseudogene	TIMM9P2	translocase_of_inner_mitochondrial_membrane_9_homolog_(yeast)_pseudogene_2_[Source:HGNC_Symbol;Acc:39929]
+ENSG00000232623	21	33678775	33681048	-1	antisense		
+ENSG00000232687	21	30500022	30500509	-1	pseudogene	RPL12P9	ribosomal_protein_L12_pseudogene_9_[Source:HGNC_Symbol;Acc:23766]
+ENSG00000232692	21	27750871	27844017	1	antisense		
+ENSG00000232698	21	45626408	45627282	-1	lincRNA		
+ENSG00000232777	21	44535444	44535819	-1	pseudogene	MRPL51P2	mitochondrial_ribosomal_protein_L51_pseudogene_2_[Source:HGNC_Symbol;Acc:29724]
+ENSG00000232797	21	15164956	15165462	1	pseudogene	FAM207CP	family_with_sequence_similarity_207,_member_C_[Source:HGNC_Symbol;Acc:42676]
+ENSG00000232806	21	42931052	42934885	-1	lincRNA		
+ENSG00000232837	21	40346355	40349700	-1	lincRNA		
+ENSG00000232855	21	29816870	30047170	-1	lincRNA		
+ENSG00000232884	21	16120066	16126186	-1	lincRNA		
+ENSG00000232886	21	18235195	18246011	-1	lincRNA		
+ENSG00000232969	21	45759259	45760353	1	antisense		
+ENSG00000233036	21	32174560	32174745	-1	pseudogene	KRTAP8-2P	keratin_associated_protein_8-2,_pseudogene_[Source:HGNC_Symbol;Acc:18948]
+ENSG00000233056	21	44336913	44345756	-1	antisense	ERVH48-1	endogenous_retrovirus_group_48,_member_1_[Source:HGNC_Symbol;Acc:17216]
+ENSG00000233206	21	21802755	21803074	-1	pseudogene	RPS3AP1	ribosomal_protein_S3A_pseudogene_1_[Source:HGNC_Symbol;Acc:10422]
+ENSG00000233213	21	39089405	39091872	-1	sense_intronic	KCNJ6-IT1	KCNJ6_intronic_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:41352]
+ENSG00000233215	21	23381263	23470778	-1	lincRNA		
+ENSG00000233236	21	21629065	21631133	-1	lincRNA		
+ENSG00000233300	21	28739333	28740266	-1	pseudogene	EIF4A1P1	eukaryotic_translation_initiation_factor_4A1_pseudogene_1_[Source:HGNC_Symbol;Acc:3283]
+ENSG00000233316	21	39578250	39580738	1	lincRNA	DSCR10	Down_syndrome_critical_region_gene_10_(non-protein_coding)_[Source:HGNC_Symbol;Acc:16302]
+ENSG00000233393	21	37477179	37481988	1	lincRNA		
+ENSG00000233442	21	15379455	15387201	1	pseudogene	PPP6R2P1	protein_phosphatase_6,_regulatory_subunit_2_pseudogene_1_[Source:HGNC_Symbol;Acc:39605]
+ENSG00000233480	21	21265593	21272069	-1	lincRNA		
+ENSG00000233640	21	31808784	31809282	-1	pseudogene	KRTAP13-5P	keratin_associated_protein_13-5,_pseudogene_[Source:HGNC_Symbol;Acc:18929]
+ENSG00000233676	21	21760646	21761157	1	pseudogene	FDPSP6	farnesyl_diphosphate_synthase_pseudogene_6_[Source:HGNC_Symbol;Acc:3637]
+ENSG00000233754	21	44201184	44202343	-1	lincRNA		
+ENSG00000233756	21	41987304	42002693	-1	sense_intronic	DSCAM-IT1	DSCAM_intronic_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:41327]
+ENSG00000233767	21	47491999	47492162	-1	pseudogene	PSMA6P3	proteasome_(prosome,_macropain)_subunit,_alpha_type,_6_pseudogene_3_[Source:HGNC_Symbol;Acc:39608]
+ENSG00000233783	21	27306612	27307584	1	antisense		
+ENSG00000233818	21	37818029	37904706	1	antisense		
+ENSG00000233922	21	47013568	47017005	1	lincRNA		
+ENSG00000233956	21	34890917	34891415	-1	pseudogene	BTF3P6	basic_transcription_factor_3_pseudogene_6_[Source:HGNC_Symbol;Acc:23765]
+ENSG00000233997	21	23119293	23169735	1	lincRNA		
+ENSG00000234008	21	37259493	37260105	1	pseudogene	PPP1R2P2	protein_phosphatase_1,_regulatory_(inhibitor)_subunit_2_pseudogene_2_[Source:HGNC_Symbol;Acc:9290]
+ENSG00000234030	21	45203004	45203454	1	pseudogene	TMEM97P1	transmembrane_protein_97_pseudogene_1_[Source:HGNC_Symbol;Acc:39640]
+ENSG00000234034	21	23872924	23892377	-1	lincRNA		
+ENSG00000234035	21	40285093	40287072	-1	lincRNA		
+ENSG00000234052	21	29011012	29025810	1	lincRNA		
+ENSG00000234083	21	29327240	29357614	1	lincRNA		
+ENSG00000234107	21	33212653	33213170	1	pseudogene	TPT1P1	tumor_protein,_translationally-controlled_1_pseudogene_1_[Source:HGNC_Symbol;Acc:16742]
+ENSG00000234159	21	17116323	17117399	-1	pseudogene	RBPMSLP	RNA_binding_protein_with_multiple_splicing-like_pseudogene_[Source:HGNC_Symbol;Acc:9923]
+ENSG00000234289	21	44985120	44985500	1	pseudogene	H2BFS	H2B_histone_family,_member_S_[Source:HGNC_Symbol;Acc:4762]
+ENSG00000234293	21	30868367	30872706	1	sense_intronic	BACH1-IT3	BACH1_intronic_transcript_3_(non-protein_coding)_[Source:HGNC_Symbol;Acc:16455]
+ENSG00000234340	21	23507018	23508403	-1	pseudogene		
+ENSG00000234380	21	36118054	36157183	1	antisense		
+ENSG00000234439	21	21797261	21798518	-1	pseudogene	KRT18P2	keratin_18_pseudogene_2_[Source:HGNC_Symbol;Acc:6435]
+ENSG00000234509	21	33025906	33031813	-1	lincRNA		
+ENSG00000234538	21	15211439	15211730	1	pseudogene	ZNF114P1	zinc_finger_protein_114_pseudogene_1_[Source:HGNC_Symbol;Acc:23771]
+ENSG00000234643	21	11180920	11181815	-1	pseudogene	EIF3FP1	eukaryotic_translation_initiation_factor_3,_subunit_F_pseudogene_1_[Source:HGNC_Symbol;Acc:3276]
+ENSG00000234703	21	36508935	36511519	1	lincRNA		
+ENSG00000234730	21	22939084	22987758	1	lincRNA		
+ENSG00000234880	21	46409779	46414001	-1	lincRNA	LINC00163	long_intergenic_non-protein_coding_RNA_163_[Source:HGNC_Symbol;Acc:33165]
+ENSG00000234883	21	26934221	26947480	1	non_coding	MIR155HG	MIR155_host_gene_(non-protein_coding)_[Source:HGNC_Symbol;Acc:35460]
+ENSG00000235012	21	40897510	40901782	1	pseudogene		
+ENSG00000235023	21	44068381	44071354	-1	antisense		
+ENSG00000235123	21	41755010	41757285	1	antisense	DSCAM-AS1	DSCAM_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:40197]
+ENSG00000235277	21	16290855	16319417	1	antisense		
+ENSG00000235312	21	31886931	31887117	-1	pseudogene	KRTAP19-10P	keratin_associated_protein_19-10,_pseudogene_[Source:HGNC_Symbol;Acc:18951]
+ENSG00000235374	21	46491648	46494080	-1	pseudogene	SSR4P1	signal_sequence_receptor,_delta_pseudogene_1_[Source:HGNC_Symbol;Acc:23131]
+ENSG00000235476	21	10872119	10872429	1	pseudogene		
+ENSG00000235514	21	27135249	27135644	-1	pseudogene		
+ENSG00000235564	21	25333220	25339588	-1	lincRNA		
+ENSG00000235609	21	16195290	16254296	-1	processed_transcript		
+ENSG00000235701	21	40543056	40544032	-1	pseudogene	PCBP2P1	poly(rC)_binding_protein_2_pseudogene_1_[Source:HGNC_Symbol;Acc:8649]
+ENSG00000235772	21	43980484	43982044	-1	antisense		
+ENSG00000235808	21	40860253	40860686	1	pseudogene	MYL6P2	myosin,_light_chain_6_pseudogene_2_[Source:HGNC_Symbol;Acc:23772]
+ENSG00000235878	21	47609638	47613673	-1	protein_coding	NA	Uncharacterized_protein_[Source:UniProtKB/TrEMBL;Acc:E7EVC9]
+ENSG00000235888	21	40360633	40378079	-1	lincRNA		
+ENSG00000235890	21	45926690	45935738	1	antisense	TSPEAR-AS1	TSPEAR_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:1271]
+ENSG00000235965	21	20418629	20420003	1	lincRNA		
+ENSG00000236056	21	30594642	30595578	1	pseudogene	GAPDHP14	glyceraldehyde-3-phosphate_dehydrogenase_pseudogene_14_[Source:HGNC_Symbol;Acc:4160]
+ENSG00000236119	21	37455157	37462712	1	lincRNA		
+ENSG00000236332	21	28733483	28768106	1	lincRNA		
+ENSG00000236382	21	46122136	46122706	1	pseudogene	KRTAP10-13P	keratin_associated_protein_10-13,_pseudogene_[Source:HGNC_Symbol;Acc:34213]
+ENSG00000236384	21	43131680	43135935	-1	lincRNA	LINC00479	long_intergenic_non-protein_coding_RNA_479_[Source:HGNC_Symbol;Acc:19727]
+ENSG00000236400	21	32114098	32114913	-1	pseudogene		
+ENSG00000236471	21	16439391	16440158	1	lincRNA		
+ENSG00000236519	21	46222492	46224632	1	antisense		
+ENSG00000236532	21	29488413	29600986	-1	lincRNA		
+ENSG00000236545	21	43290742	43292163	1	antisense		
+ENSG00000236557	21	10181168	10182885	1	protein_coding		
+ENSG00000236612	21	31909597	31909700	-1	pseudogene	KRTAP19-11P	keratin_associated_protein_19-11,_pseudogene_[Source:HGNC_Symbol;Acc:18952]
+ENSG00000236663	21	44560633	44561202	-1	antisense		
+ENSG00000236677	21	37432730	37436706	1	antisense		
+ENSG00000236830	21	37504065	37528605	-1	lincRNA		
+ENSG00000236883	21	43159533	43161468	1	antisense		
+ENSG00000237138	21	33393279	33394095	-1	antisense		
+ENSG00000237202	21	14492565	14493128	1	pseudogene		
+ENSG00000237232	21	43429303	43445033	1	lincRNA	ZNF295-AS1	ZNF295_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:23130]
+ENSG00000237325	21	32824779	32825536	1	pseudogene		
+ENSG00000237338	21	47571528	47572561	1	antisense		
+ENSG00000237373	21	40589019	40591731	-1	processed_transcript	BRWD1-IT1	BRWD1_intronic_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:41920]
+ENSG00000237444	21	26403318	26403842	-1	pseudogene		
+ENSG00000237484	21	25801054	25920256	1	lincRNA		
+ENSG00000237527	21	23027359	23058649	-1	lincRNA		
+ENSG00000237569	21	24779978	24781448	-1	pseudogene	TUBAP	tubulin,_alpha_pseudogene_[Source:HGNC_Symbol;Acc:12411]
+ENSG00000237594	21	32931537	32932800	1	lincRNA		
+ENSG00000237604	21	45595372	45596336	1	lincRNA		
+ENSG00000237609	21	40400461	40401053	-1	lincRNA		
+ENSG00000237646	21	38176285	38178585	-1	sense_intronic	HLCS-IT1	HLCS_intronic_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:41343]
+ENSG00000237664	21	46758505	46761905	-1	lincRNA	LINC00316	long_intergenic_non-protein_coding_RNA_316_[Source:HGNC_Symbol;Acc:19723]
+ENSG00000237721	21	40378574	40383255	-1	lincRNA		
+ENSG00000237731	21	27015801	27016528	1	pseudogene	RNGTTP1	RNA_guanylyltransferase_and_5'-phosphatase_pseudogene_1_[Source:HGNC_Symbol;Acc:39652]
+ENSG00000237735	21	18126838	18188007	-1	lincRNA		
+ENSG00000237841	21	31882625	31882815	-1	pseudogene	KRTAP19-9P	keratin_associated_protein_19-9,_pseudogene_[Source:HGNC_Symbol;Acc:18950]
+ENSG00000237864	21	44742297	44751919	-1	processed_transcript	LINC00322	long_intergenic_non-protein_coding_RNA_322_[Source:HGNC_Symbol;Acc:33698]
+ENSG00000237945	21	35303464	35349992	1	lincRNA		
+ENSG00000237989	21	44778027	44782229	-1	lincRNA		
+ENSG00000238141	21	40687633	40695144	1	antisense	BRWD1-AS1	BRWD1_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:40614]
+ENSG00000238197	21	34100426	34115433	1	lincRNA	GCFC1-AS1	GCFC1_antisense_RNA_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:39603]
+ENSG00000238220	21	33996726	33997406	-1	pseudogene		
+ENSG00000238257	21	32135000	32135200	-1	pseudogene		
+ENSG00000238265	21	23095613	23109639	-1	lincRNA	LINC00317	long_intergenic_non-protein_coding_RNA_317_[Source:HGNC_Symbol;Acc:23126]
+ENSG00000238314	21	26842421	26842513	-1	snoRNA	NA	Small_nucleolar_RNA_U13__[Source:RFAM;Acc:RF01210]
+ENSG00000238390	21	33036619	33036795	1	snoRNA	NA	Small_nucleolar_RNA_SNORA81__[Source:RFAM;Acc:RF01241]
+ENSG00000238411	21	9683191	9683272	1	miRNA		
+ENSG00000238556	21	40717300	40717383	-1	snoRNA	NA	Small_nucleolar_RNA_U13__[Source:RFAM;Acc:RF01210]
+ENSG00000238573	21	20163369	20163452	1	miRNA		
+ENSG00000238581	21	39559551	39559656	-1	snoRNA	NA	Small_nucleolar_RNA_U13__[Source:RFAM;Acc:RF01210]
+ENSG00000238591	21	17080978	17081077	1	snoRNA	NA	Small_nucleolar_RNA_U13__[Source:RFAM;Acc:RF01210]
+ENSG00000238627	21	26574521	26574629	1	rRNA	NA	5S_ribosomal_RNA__[Source:RFAM;Acc:RF00001]
+ENSG00000238660	21	26711319	26711413	1	miRNA		
+ENSG00000238851	21	37630724	37630829	-1	snoRNA	NA	Small_nucleolar_RNA_U13__[Source:RFAM;Acc:RF01210]
+ENSG00000239023	21	18091317	18091476	1	snRNA	NA	U1_spliceosomal_RNA__[Source:RFAM;Acc:RF00003]
+ENSG00000239107	21	9937936	9938018	-1	miRNA		
+ENSG00000239171	21	30761707	30761810	-1	snoRNA	NA	Small_nucleolar_RNA_U13__[Source:RFAM;Acc:RF01210]
+ENSG00000239179	21	9937696	9937777	-1	miRNA		
+ENSG00000239259	21	37263329	37263398	1	Mt_tRNA_pseudogene		
+ENSG00000239415	21	47671463	47674047	-1	processed_transcript		
+ENSG00000239688	21	47955709	47956005	1	scRNA_pseudogene		
+ENSG00000239930	21	43916118	43918313	1	processed_transcript		
+ENSG00000240113	21	35291015	35291097	-1	scRNA_pseudogene		
+ENSG00000240368	21	34931848	34950669	-1	processed_transcript		
+ENSG00000240406	21	33910329	33910395	1	snoRNA_pseudogene		
+ENSG00000240432	21	31797583	31798286	-1	protein_coding	KRTAP13-3	keratin_associated_protein_13-3_[Source:HGNC_Symbol;Acc:18925]
+ENSG00000240448	21	42133675	42133745	1	snoRNA_pseudogene		
+ENSG00000240755	21	15515902	15516479	1	pseudogene	ERLEC1P1	endoplasmic_reticulum_lectin_1_pseudogene_1_[Source:HGNC_Symbol;Acc:38012]
+ENSG00000240770	21	19135632	19164840	-1	processed_transcript	C21orf91-OT1	C21orf91_overlapping_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:16729]
+ENSG00000241115	21	15456966	15457502	-1	rRNA_pseudogene		
+ENSG00000241123	21	45999332	46000481	-1	protein_coding	KRTAP10-5	keratin_associated_protein_10-5_[Source:HGNC_Symbol;Acc:22969]
+ENSG00000241238	21	45141573	45152146	1	processed_transcript		
+ENSG00000241728	21	45748827	45750104	-1	processed_transcript		
+ENSG00000241837	21	35275757	35288284	-1	protein_coding	ATP5O	ATP_synthase,_H+_transporting,_mitochondrial_F1_complex,_O_subunit_[Source:HGNC_Symbol;Acc:850]
+ENSG00000241945	21	45527176	45551063	1	protein_coding	PWP2	PWP2_periodic_tryptophan_protein_homolog_(yeast)_[Source:HGNC_Symbol;Acc:9711]
+ENSG00000242220	21	33948862	33957843	-1	protein_coding	TCP10L	t-complex_10_(mouse)-like_[Source:HGNC_Symbol;Acc:11657]
+ENSG00000242342	21	15764891	15765753	1	lincRNA		
+ENSG00000242553	21	38593720	38610045	1	lincRNA		
+ENSG00000242871	21	33714795	33715062	-1	scRNA_pseudogene		
+ENSG00000243001	21	37263159	37263224	1	Mt_tRNA_pseudogene		
+ENSG00000243064	21	15646120	15735075	1	pseudogene	ABCC13	ATP-binding_cassette,_sub-family_C_(CFTR/MRP),_member_13,_pseudogene_[Source:HGNC_Symbol;Acc:16022]
+ENSG00000243357	21	45894981	45895050	-1	Mt_tRNA_pseudogene		
+ENSG00000243440	21	15954509	16031142	-1	protein_coding		
+ENSG00000243489	21	46066331	46067564	1	protein_coding	KRTAP10-11	keratin_associated_protein_10-11_[Source:HGNC_Symbol;Acc:20528]
+ENSG00000243611	21	37263405	37263470	-1	Mt_tRNA_pseudogene		
+ENSG00000243627	21	35786792	35796264	-1	protein_coding		
+ENSG00000243646	21	34638663	34669539	1	protein_coding	IL10RB	interleukin_10_receptor,_beta_[Source:HGNC_Symbol;Acc:5965]
+ENSG00000243740	21	26825507	26839042	-1	lincRNA		
+ENSG00000243927	21	35445524	35515334	1	protein_coding	MRPS6	mitochondrial_ribosomal_protein_S6_[Source:HGNC_Symbol;Acc:14051]
+ENSG00000244025	21	31863782	31864275	-1	protein_coding	KRTAP19-3	keratin_associated_protein_19-3_[Source:HGNC_Symbol;Acc:18938]
+ENSG00000244123	21	37263094	37263155	1	Mt_tRNA_pseudogene		
+ENSG00000244278	21	26427848	26442219	1	lincRNA		
+ENSG00000244294	21	35291421	35291641	-1	scRNA_pseudogene		
+ENSG00000244362	21	31933194	31933633	-1	protein_coding	KRTAP19-7	keratin_associated_protein_19-7_[Source:HGNC_Symbol;Acc:18942]
+ENSG00000244408	21	40722819	40723036	-1	scRNA_pseudogene		
+ENSG00000244624	21	31988750	31989003	1	protein_coding	KRTAP20-1	keratin_associated_protein_20-1_[Source:HGNC_Symbol;Acc:18943]
+ENSG00000244676	21	19165805	19183162	1	processed_transcript		
+ENSG00000245754	21	47874900	47878593	-1	lincRNA		
+ENSG00000246147	21	26931716	26936957	-1	lincRNA		
+ENSG00000248354	21	45548223	45563243	1	protein_coding		
+ENSG00000248476	21	30723955	30734215	1	sense_intronic	BACH1-IT1	BACH1_intronic_transcript_1_(non-protein_coding)_[Source:HGNC_Symbol;Acc:40006]
+ENSG00000248623	21	44373890	44376488	1	lincRNA		
+ENSG00000249209	21	34956993	35284635	-1	protein_coding		
+ENSG00000249493	21	15436646	15441408	1	pseudogene		
+ENSG00000249624	21	34619079	34656082	1	protein_coding		
+ENSG00000250973	21	31728833	31729203	-1	pseudogene	KRTAP13-6P	keratin_associated_protein_13-6,_pseudogene_[Source:HGNC_Symbol;Acc:18930]
+ENSG00000251481	21	37426162	37481988	-1	lincRNA		
+ENSG00000251778	21	43302314	43302409	1	snoRNA	NA	Small_nucleolar_RNA_SNORA3/SNORA45_family__[Source:RFAM;Acc:RF00334]
+ENSG00000251851	21	21728060	21728164	-1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000251894	21	30115530	30115613	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000251972	21	27315359	27315460	-1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000252045	21	33910609	33910744	1	snoRNA	NA	Small_nucleolar_RNA_SNORA33__[Source:RFAM;Acc:RF00438]
+ENSG00000252199	21	10385953	10386047	1	snoRNA	NA	Small_nucleolar_RNA_SNORA70__[Source:RFAM;Acc:RF00156]
+ENSG00000252273	21	17407733	17407829	-1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000252384	21	40266709	40266791	1	snoRNA	NA	Small_nucleolar_RNA_SNORA62/SNORA6_family__[Source:RFAM;Acc:RF00091]
+ENSG00000252462	21	18803865	18803965	1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000252606	21	45416203	45416301	-1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000252613	21	18824999	18825052	1	snRNA	NA	U7_small_nuclear_RNA__[Source:RFAM;Acc:RF00066]
+ENSG00000252619	21	43837606	43837702	-1	snRNA	NA	U6_spliceosomal_RNA__[Source:RFAM;Acc:RF00026]
+ENSG00000252771	21	43024746	43024843	-1	snoRNA	NA	Small_nucleolar_RNA_U13__[Source:RFAM;Acc:RF01210]
+ENSG00000252915	21	40716463	40716554	1	misc_RNA	NA	Y_RNA__[Source:RFAM;Acc:RF00019]
+ENSG00000252950	21	33935385	33935520	1	rRNA	NA	5S_ribosomal_RNA__[Source:RFAM;Acc:RF00001]
+ENSG00000252963	21	21728965	21729208	1	misc_RNA	NA	7SK_RNA__[Source:RFAM;Acc:RF00100]
+ENSG00000255568	21	40685888	40686369	-1	protein_coding	BRWD1-IT2	BRWD1_intronic_transcript_2_(non-protein_coding)_[Source:HGNC_Symbol;Acc:16423]
+ENSG00000255739	21	37502670	37648524	-1	lincRNA		
+ENSG00000255902	21	45751119	45751543	1	pseudogene		
+ENSG00000256073	21	33765439	33766269	1	protein_coding	C21orf119	chromosome_21_open_reading_frame_119_[Source:HGNC_Symbol;Acc:23128]
+ENSG00000256212	21	46020522	46021649	1	pseudogene		
+ENSG00000256386	21	32201362	32202051	-1	pseudogene		
+ENSG00000256715	21	14741931	14745386	-1	protein_coding	BAGE4	B_melanoma_antigen_family,_member_4_[Source:HGNC_Symbol;Acc:15730]
+ENSG00000256818	21	31964786	31965076	1	pseudogene		
+ENSG00000256895	21	16422510	16424692	1	protein_coding	C21orf116	chromosome_21_open_reading_frame_116_[Source:HGNC_Symbol;Acc:17285]
+ENSG00000259765	21	10862622	10863067	1	protein_coding		

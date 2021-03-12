@@ -1,0 +1,20 @@
+---
+title: "This Is Sigtools"
+auther: "Shohre Masoumi"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{This Is Sigtools}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(sigtools)
+```

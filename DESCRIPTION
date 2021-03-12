@@ -1,0 +1,26 @@
+Package: sigtools
+Type: Package
+Title: Visualizing Genomic Signals
+Version: 1.1.0
+Author: Shohre Masoumi
+Maintainer: Shohre Masoumi <shohre_masoumi@sfu.ca>
+Description: Sigtools is an R-based visualization package, 
+  designed to enable the users with limited pro-gramming experience 
+  to produce statistical plots of continuous genomic data. 
+  It consists ofseveral statistical visualizations that provide 
+  insights regarding the behavior of a group of signals in large regions
+  as well as visualizingthem around a specific point or short region
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+URL: https://github.com/shohre73/sigtools
+BugReports: https://github.com/shohre73/sigtools/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    ggplot2,
+    ggridges,
+    reshape2
