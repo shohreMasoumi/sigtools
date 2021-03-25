@@ -1,4 +1,4 @@
-#' Title
+#' Concatenates signals in the given path
 #'
 #' @param path The path to the directory containing your cell types
 #' @param pattern The pattern in which you named your cell types
