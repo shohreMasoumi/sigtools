@@ -72,6 +72,7 @@ sigtools_autocorrelation <- function(path_mulColBedG,
 
     # Here, I am just creating a temp dataframe
     # to store the data for this iteration
+    # Our main challenge in Sigtools is to process and configure data while being mindful that we have to use specific formats for `ggplot`
     # we will end up appending this df to our main df (df_autoCor) at the end of each round
     # Ho many rows should this df have?
     # could you figure out why I am doing this this way?
@@ -101,6 +102,7 @@ sigtools_autocorrelation <- function(path_mulColBedG,
       #for(df in list_splited){
         # here is a bit tricky,
         # This whole for was to eliminate rare error in the case that
+        # so we we are only working with one chromosome, this loop just runs 1
         # again, keep in mind that for `corr` to accept x and y, they need to be of the same length
         # I leave some section of the code to be,
         # for the sake of practice
@@ -111,7 +113,7 @@ sigtools_autocorrelation <- function(path_mulColBedG,
         # the purpose of x <- c(x, ...) is to making sure x stays the same format (a list)
         # I know, it might not be the cleanest way to do this
         # in df[(l:nrow(df)), i+3]:
-        # for the column choice i is the index of a signal, and because we have three other columns ('chr', 'start', 'end') before the first signal, we add +3
+        # for the column choice `i` is the index of a signal, and because we have three other columns ('chr', 'start', 'end') before the first signal, we add +3
         # for rows: (l:nrow(df)): shifts the signal l times forward: instead of index 1 to N, pick l to N
 
         # Now, can you explain what the following line does?
@@ -121,27 +123,56 @@ sigtools_autocorrelation <- function(path_mulColBedG,
       # calculating the correlation of lag l
       # this part is also a little tricky:
       #df_temp$autoCorrelation[?] <- cor(?, ?, method = c("pearson"))
+      # so, we would have a df such as:
+      # lag                 feature         autoCorrelation
+      # 1*resolution        signal_name     cor_value_sigi_lag1
+      # 2*resolution        signal_name     cor_value_sigi_lag1
+      # 3*resolution        signal_name     cor_value_sigi_lag1
+      # 4*resolution        signal_name     cor_value_sigi_lag1
+      # .
+      # .
+      # .
     #}
 
     # binding df_temps together after the end of each iteration or each l (lag)
     #df_autoCor <- rbind(df_autoCor, df_temp)
   #}
 
+  # after this loop df_autoCor would be:
+  # lag                 feature         autoCorrelation
+  # 1*resolution        signal_1        cor_value_sig1_lag1
+  # 2*resolution        signal_1        cor_value_sig1_lag3
+  # 3*resolution        signal_1        cor_value_sig1_lag4
+  # .
+  # .
+  # .
+  # 1*resolution        signal_2        cor_value_sig2_lag1
+  # 2*resolution        signal_2        cor_value_sig2_lag2
+  # 3*resolution        signal_2        cor_value_sig2_lag3
+  # .
+  # .
+  # .
+
   #cat('Generating autocorrelation plot...\n')
-  #p <- ggplot(df_autoCor, aes(lag, autoCorrelation, group = feature, color= feature )) +
+
+  # SECTION: figure generation:
+  #p <- ggplot(?, aes(?, ?, group = ?, color= ?)) +
   #  geom_line() +
   #  theme(legend.title=element_blank()) +
   #  labs(fill = "", x = "distance (bp)", y ="autocorrelation") +
   #  theme_classic(base_size = fontSize) +
   #  theme(legend.title=element_blank())
 
-  #if(! is.na(x_label)){p <- p + xlab(x_label)}
-  #if(! is.na(y_label)){p <- p + ylab(y_label)}
+  # If x_label is not NA, add a label to x axis for plot p
+
+  # If y_label is not NA, add a label to y axis for plot p
 
 
+
+  # saving the generated figure
   #ggsave(paste0('./', outdir, '/', 'autoCorrelation.png'),
-  #       plot = p,
-  #       width = img_width, height = img_height, units = "cm",
+  #       plot = ?,
+  #       width = ?, height = ?, units = "cm",
   #       dpi = 300, limitsize = TRUE)
 }
 
