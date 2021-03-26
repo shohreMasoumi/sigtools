@@ -7,7 +7,6 @@ get_num_signals <- function(df){
   # to complete this code section, note how many columns are there in a multi-column bedgraph file
   # and what are those columns
   # there is an example of a multi-column bedgraph file in './test_data/E003-assays_chr21_bin200_bwtool.mcBedGraph'
-
 }
 
 # we already did this in the previous script, but for the sake of practice, let's do it again
@@ -175,4 +174,50 @@ sigtools_autocorrelation <- function(path_mulColBedG,
   #       width = ?, height = ?, units = "cm",
   #       dpi = 300, limitsize = TRUE)
 }
+
+# Comments:
+# S1 and S2
+#
+# lag =  0
+# S2 = S1 + lag
+#
+# S1() = {domain(), }
+#
+# set ={
+#   (S1(x1), S2(x1))
+#   (S1(x3), S2(x1))
+#   (S1(x3), S2(x1))
+#   .
+#   .
+#   .
+# }
+#
+# x = (S1(x1), S1(x2), S1(x3), ...)
+# y = (S2(x1), S2(x2), S2(x3), ...)
+#
+# c_0 = corr(x, y, 'pearson')
+#
+# lag = 1
+# S2 = S1 + lag
+#
+# ...
+#
+# c_1 =
+#
+#   ...
+#
+# c_lag =
+#
+#   # lag                 feature         autoCorrelation
+#   # 0*resolution        s1 			  c_0
+#   # 1*resolution        s1 			  c_1
+#   # 2*resolution        s1 			  c_2
+#   # 3*resolution        s1 			  c_2
+#   ...
+# # 0*resolution        s2 			  c_0_
+# # 1*resolution        s2 			  c_1_
+# # 2*resolution        s2 			  c_2_
+# # 3*resolution        s2 			  c_2_
+# ...
+
 
